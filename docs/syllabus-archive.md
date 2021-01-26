@@ -1,8 +1,18 @@
 # SYLLABUS
 
+CSCI-UA 4-6
+Monday/Wednesday, 11:00–12:15 p.m. (EST)
+Instruction Mode: Online
+Professor: Jason Aston
+Zoom Meeting ID: 946 9984 9301
+
+Office Hours: Mondays 12:15pm-1:15pm
+Zoom ID: same as above
+If you cannot attend meetings at this time then we can schedule an alternative meeting time. 
+
 There are two primary aspects to this course. The first is learning how to build websites and prepare the various elements that comprise them. The second is understanding concepts behind computers in general and the Web in particular.
 
-For the common syllabus of all sections, see (link: http://cs.nyu.edu/courses/fall17/CSCI-UA.0004-001/common-syllabus/ text: this page).
+For the common syllabus of all sections, see [this page]( https://cs.nyu.edu/courses/spring21/CSCI-UA.0004-004/common-syllabus/).
 
 ## Lecture Topics and Assignments
 - Computer principles

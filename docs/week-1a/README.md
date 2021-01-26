@@ -24,4 +24,4 @@ Introduction
 ### Homework
 - Browse class site- there are many resources on this site that will help you. At different points int the year we will address some of these resources.
 - Read introduction chapter in book
-(link: http://jason-aston.com/introweb-s18/useful-links text: Download a text editor and SFTP client and Chrome or Firefox if you don't have it already.)
+[Download a text editor and SFTP client and Chrome or Firefox if you don't have it already.](/links)

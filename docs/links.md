@@ -1,36 +1,38 @@
 # Resources and Links 
 
-**MORE TO COME SO KEEP CHECKING BACK!* 
+**MORE TO COME SO KEEP CHECKING BACK!** 
 
 *If you have any you would like to add, email them to me.*
 
 ### Design
 
-(link: http://www.awwwards.com/ text: Awwwards)
-(link: http://dribbble.com/ text: Dribbble)
-(link: http://www.webbyawards.com/ text: Webby Awards)
-(link: http://httpster.net/ text: Httpster)
-(link: http://www.thefwa.com text: The FWA)
-(link: http://www.teehanlax.com/tools/ text: Mobile Tablet  Design Templates)
-(link: http://thenounproject.com/ text: The Noun Project)
+* [**Awwwards**](http://www.awwwards.com/)
+* [**Dribbble**](http://dribbble.com/)
+* [**Webby Awards**](http://www.webbyawards.com/)
+* [**Httpster**](http://httpster.net)
+* [**FWA**](http://www.thefwa.com)
+* [**Mobile Tablet  Design Templates**]( http://www.teehanlax.com/tools)
+* [**The Noun Project**](http://thenounproject.com/)
 
 ### HTML, CSS, Javascript
 
-(link: http://alistapart.com/ text: alistapart)
-(link: http://www.codecademy.com/ text: Code Academy)
-(link: http://css-tricks.com/ text: css-tricks)
-(link: http://getbootstrap.com/ text: Twitter Bootstrap)
-(link: http://www.dontfeartheinternet.com/ text: dontfeartheinternet)
-(link: https://github.com/ text: Github)
-(link: http://stackoverflow.com/ text: Stack Overflow)
-(link: http://www.html5rocks.com/ text: HTML5 Rocks)
-(link: http://jquery.com/ text: jQuery)
+* [**A List Apart**](http://alistapart.com/)
+* [**Code Academy**](http://www.codecademy.com/)
+* [**CSS-tricks**](http://css-tricks.com/)
+* [**BootStrap**](http://getbootstrap.com/)
+* [**Dont Fear the Internet**](http://www.dontfeartheinternet.com/)
+* [**Github**](https://github.com/)
+* [**Stack Overflow**](http://stackoverflow.com/)
+* [**HTML5 Rocks**](http://www.html5rocks.com/)
+* [**JQuery**](http://jquery.com/)
 
 ### Software and Tools
 
-(link: https://www.google.com/intl/en/chrome/browser/ text: Chrome Browser)
-(link: http://www.sublimetext.com/ text: Sublime Text 3)
-(link: https://brackets.io text: Brackets - Open Source Code Editor from Adobe)
-(link: http://panic.com/transmit/ text: Transmit [Paid FTP Management])
-(link: https://cyberduck.io/?l=en text: CyberDuck [Free FTP Management])
-(link: http://codepen.io text: Codepen)
+* [**Chrome**](https://www.google.com/intl/en/chrome/browser/)
+* [**Firefox**](https://www.mozilla.org/en-US/firefox/new/)
+* [**Sublime Text - Paid Text Editor**](http://www.sublimetext.com/)
+* [**Brackets - Open Source Code Editor from Adobe**](https://brackets.io)
+* [**Atom - Open Source Code Editor**](https://atom.io)
+* [**Transmit-Paid FTP Management**](http://panic.com/transmit/)
+* [**CyberDuck-Free FTP Management**](https://cyberduck.io/?l=en)
+* [**Codepen**](http://codepen.io)

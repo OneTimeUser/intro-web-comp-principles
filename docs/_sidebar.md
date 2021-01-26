@@ -1,6 +1,6 @@
 <!-- docs/_sidebar.md -->
 
-* [**Syllabus**](syllabus.md) 
+* [**Home**](/) 
 * [**Assignments**](assignments.md) 
 * **Weekly Topics**
     * [Week 1a - Intro](week-1a/      )
