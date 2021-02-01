@@ -17,6 +17,9 @@ Zoom ID: 741 631 1101
 
 If you cannot attend meetings at this time then we can schedule an alternative meeting time. 
 
+Our very own Slack:
+[https://join.slack.com/t/webmasters-corp/shared_invite/zt-lpwylcr8-CTMsnnLNPQVkqbaa4F7iqg](https://join.slack.com/t/webmasters-corp/shared_invite/zt-lpwylcr8-CTMsnnLNPQVkqbaa4F7iqg)
+
 ---
 
 There are two primary aspects to this course. The first is learning how to build websites and prepare the various elements that comprise them. The second is understanding concepts behind computers in general and the Web in particular.
