@@ -1,4 +1,12 @@
-# Grading
+# Grading and Rubric
+
+The following rubric serves as a guideline for how grades will be calculated. The final percentage allotted to each category is at the instructor’s discretion.
+
+    Assignments: 40%
+    Midterm Exam: 20%
+    Final Project: 10%
+    Final Exam: 30%
+
 
 ### Attendance
 

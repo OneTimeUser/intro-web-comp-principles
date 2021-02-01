@@ -77,12 +77,31 @@ In addition to your NYU Home Account, we will be using a special computer accoun
 
 ## Software
 
-Macintosh computers with all of the necessary software installed are available to you in the (link: https://www.nyu.edu/life/information-technology/locations-and-facilities/student-technology-centers.html text: Student Technology Centers). You do not need  your own computer nor do you need to purchase any software. However, you will be learning how to use various programs and may wish to have access to them at home or on your laptop. In this case, you must purchase a subscription or use a trial version, which is sometimes available from the publisher. You can download software provided by ITS to all students, including SFTP programs, by going to the (link: https://www.nyu.edu/its/software/ text:  ITS software page).
+Macintosh computers with all of the necessary software installed are available to you in the [Student Technology Centers]( https://www.nyu.edu/life/information-technology/locations-and-facilities/student-technology-centers.html). You do not need  your own computer nor do you need to purchase any software. However, you will be learning how to use various programs and may wish to have access to them at home or on your laptop. In this case, you must purchase a subscription or use a trial version, which is sometimes available from the publisher. You can download software provided by ITS to all students, including SFTP programs, by going to the [ITS software page](https://www.nyu.edu/its/software/).
 
+You probably already know this but NYU has given remote access to Adobe Creative Cloud and other software!
 
 ## Tutoring
 
 Tutors will be available throughout the semester both in person and remotely at the following times. Remote tutoring is available on a drop-in basis. In-person tutoring requires [sign-up through NYU Connect](https://nyu.starfishsolutions.com/starfish-ops/); here is a [guide for scheduling an in-person session](https://docs.google.com/document/d/1tKjWZKlH_nT2NGE0uqB5Hn7zq_BwIqIijGcKPO7UqAo/).
+
+Remote tutoring meeting ID: 950 8114 9484
+
+Monday
+    9:00–11:00 a.m. (Emma, remote)
+    11:00 a.m.–3:30 p.m. (Jiaqi, remote)
+Tuesday
+    12:30–2:00 p.m. (Jiaqi, remote)
+    5:00–6:00 p.m. (Jiaqi, remote)
+Wednesday
+    9:00 a.m.–12:00 p.m. (Emma, remote)
+    12:30–6:00 p.m. (Irina, remote)
+Thursday
+    10:00 a.m.–3:00 p.m. (Max, remote)
+    5:00–6:00 p.m. (Jiaqi, remote)
+Friday
+    9:00 a.m.–1:30 p.m. (Irina, remote)
+    2:00–4:00 p.m. (Jiaqi, remote) 
 
 Academic support is also available through the [University Learning Center](http://www.nyu.edu/ulc).
 
