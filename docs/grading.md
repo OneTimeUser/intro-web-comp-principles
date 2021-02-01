@@ -5,7 +5,7 @@ The following rubric serves as a guideline for how grades will be calculated. Th
 Assignments: 40%\
 Midterm Exam: 20%\
 Final Project: 10%\
-Final Exam: 30%\
+Final Exam: 30%
 
 
 ### Attendance
