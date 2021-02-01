@@ -88,20 +88,20 @@ Tutors will be available throughout the semester both in person and remotely at 
 Remote tutoring meeting ID: 950 8114 9484
 
 #### Monday
-    9:00–11:00 a.m. (Emma, remote)\
-    11:00 a.m.–3:30 p.m. (Jiaqi, remote)\
+9:00–11:00 a.m. (Emma, remote)\
+11:00 a.m.–3:30 p.m. (Jiaqi, remote)\
 #### Tuesday
-    12:30–2:00 p.m. (Jiaqi, remote)\
-    5:00–6:00 p.m. (Jiaqi, remote)\
+12:30–2:00 p.m. (Jiaqi, remote)\
+5:00–6:00 p.m. (Jiaqi, remote)\
 #### Wednesday
-    9:00 a.m.–12:00 p.m. (Emma, remote)\
-    12:30–6:00 p.m. (Irina, remote)\
+9:00 a.m.–12:00 p.m. (Emma, remote)\
+12:30–6:00 p.m. (Irina, remote)\
 #### Thursday
-    10:00 a.m.–3:00 p.m. (Max, remote)\
-    5:00–6:00 p.m. (Jiaqi, remote)\
+10:00 a.m.–3:00 p.m. (Max, remote)\
+5:00–6:00 p.m. (Jiaqi, remote)\
 #### Friday
-    9:00 a.m.–1:30 p.m. (Irina, remote)\
-    2:00–4:00 p.m. (Jiaqi, remote)\
+9:00 a.m.–1:30 p.m. (Irina, remote)\
+2:00–4:00 p.m. (Jiaqi, remote)\
 
 Academic support is also available through the [University Learning Center](http://www.nyu.edu/ulc).
 
