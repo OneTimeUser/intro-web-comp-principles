@@ -3,7 +3,7 @@
 * [**Home**](/)
 * [**Assignments**](assignments.md)
 * **Weekly Topics**
-    * [Week 1 - Introduction / UNIX](week-1)
+    * [Week 1 - Introduction / UNIX](week-1/)
     * [Week 2 - HTML]()
     * [Week 3 - HTML / CSS]()
     * [Week 4 - CSS]()
