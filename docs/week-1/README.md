@@ -2,17 +2,26 @@
 
 ### Lecture
 
-In this first class, we briefly go over elements and principles of the Internet, since that will be the medium we work with throughout the semester,
+In this first class, we briefly go over elements and principles of the Internet, since that will be the medium we work with throughout the semester. We also go over [UNIX](/unix) and some helpful commands to get you comfortable on the 'command line'.
 
 Introduction\
-[Download Introduction Lecture](1a.pdf)
-
+[Introduction Lecture](intro.pdf)\
+[Link to Video](https://nyu.zoom.us/rec/play/B__S-MLcyUF2RHP7ZmvbNWN0B3O8jXME-q9okoXnGe1HztH9sdOaZr1yjein5RcCwE5--jeqWakvIU9T.MwYgzI7-WxAC_HNM)
 
 Unix\
-[Download Introduction Lecture](1a.pdf)
+[UNIX Lecture](unix.pdf)\
+[Link to Video]() -for some reason my video was corrupted. Will redo ASAP.
+
+### Synchronous Zoom
+[Link to Video - Coming Soon]()
 
 ### Homework
-- Browse class site- there are many resources on this site that will help you. At different points int the year we will address some of these resources.
-- Read introduction chapter in book
+- Browse class site- there are many resources on this site that will help you. At different points in the year we will address some of these resources.
 
-[Download a text editor and SFTP client and Chrome or Firefox if you don't have it already.](/links)
+- READ Learning Web Design\
+    Chapter 2: How the Web Works\
+    Chapter 4: Creating a Simple Page
+
+- [Download a text editor and SFTP client and Chrome or Firefox if you don't have it already.](/links)
+
+- [ASSIGNMENT 1 - Due Feb 10](/assignments)
