@@ -16,7 +16,7 @@ Password: *The password given to you by Courant*
 Your i6 account information was sent to you via email from helpdesk@cims.nyu.edu with the subject, “Welcome to Courant.” If you forget your i6 password and would like to reset it, go to [this page](https://cims.nyu.edu/webapps/content/systems/resources/i6/resetpassword) for instructions on how to do so.
 
 **Web directory: public_html**\
-This is the folder on i6 accounts that will serve files to the Web. All HTML and image files should be uploaded into this folder to be viewed on the Web. 
+This is the folder on i6 accounts that will serve files to the Web. All HTML and image files should be uploaded into this folder to be viewed on the Web.
 
 **Do not delete public_html**.
 
@@ -32,9 +32,9 @@ At the $ prompt, type in the following—substituting netid with your NetID—an
 
 Windows Computers:\
 PC users can download and use PuTTY, an SSH and telnet client, to access i6.
-Type in the name of the host which, in our case, is i6.cims.nyu.edu; select “SSH” and click “Open.” 
-For reference, here is a screenshot of a PuTTY Configuration window.
-![screenshot](putty-i6.gif) 
+Type in the name of the host which, in our case, is i6.cims.nyu.edu; select “SSH” and click “Open.”
+For reference, here is a screenshot of a PuTTY Configuration window.\
+![screenshot](putty-i6.gif)
 
 Your Password:\
 Next, enter your i6 password—which is case-sensitive. The cursor does not move as you type your password, but when you press Enter you should be logged in. Take care in typing your password.  **After three unsuccessful attempts you may be locked out for an hour!**

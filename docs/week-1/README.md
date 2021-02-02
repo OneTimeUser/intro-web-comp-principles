@@ -10,10 +10,10 @@ Introduction\
 
 Unix\
 [UNIX Lecture](unix.pdf)\
-[Link to Video]() -for some reason my video was corrupted. Will redo ASAP.
+Link to Video - Coming Soon...there was an error in the screen recording. Will redo ASAP.
 
 ### Synchronous Zoom
-[Link to Video - Coming Soon]()
+Link to Video - Coming After Class Wednesday
 
 ### Homework
 - Browse class site- there are many resources on this site that will help you. At different points in the year we will address some of these resources.
