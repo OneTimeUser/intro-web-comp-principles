@@ -2,14 +2,17 @@
 
 ### BASIC UNIX COMMANDS
 
+`cd` or `cd ~`
+Change directory to HOME directory
+
 `cd <directory name>`
-Change directory (e.g. `cd pictures` brings you to the sub-directory “pictures”)
+Change directory (e.g. `cd pictures` brings you to the sub-directory “pictures” in your current directory, but you can teleport anywhere so long as you know the directory structure. Take this: `cd ~/Desktop/Images/toUpload`. That command will take me to that folder no matter where I am currently located.)
 
 `cd ..`
 Change directory up one level to the parent directory
 
-`cd`
-Return to the home directory
+`cd -`
+Go back to the previous directory, not to be confused with parent directory. 
 
 `chmod`
 Modifies the permissions on a directory
@@ -36,10 +39,10 @@ This is the online Unix help documentation (as in “manual”). Type `man` + th
 Creates a new directory (e.g. `mkdir pictures` creates a directory called “pictures”)
 
 `touch`
-Use `touch <filename>` to create a file. 
+Use `touch <filename>` to create a file.
 
 `pico` OR `nano`
-Use `pico <filename>` OR `nano <filename>` to edit a text file. **This also creates the file if it does not already exist.** 
+Use `pico <filename>` OR `nano <filename>` to edit a text file. **This also creates the file if it does not already exist.**
 
 `pwd`
 See the current directory and path
