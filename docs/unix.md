@@ -12,7 +12,7 @@ Change directory (e.g. `cd pictures` brings you to the sub-directory “pictures
 Change directory up one level to the parent directory
 
 `cd -`
-Go back to the previous directory, not to be confused with parent directory. 
+Go back to the previous directory, not to be confused with parent directory.
 
 `chmod`
 Modifies the permissions on a directory
@@ -38,6 +38,9 @@ This is the online Unix help documentation (as in “manual”). Type `man` + th
 `mkdir <directory name>`
 Creates a new directory (e.g. `mkdir pictures` creates a directory called “pictures”)
 
+`mv <filname> <destination or filename>`
+Moves a file elsewhere or renames it or both. `mv text.txt /Desktop/` Moves a text file in your current directory to the Desktop. `mv text.txt text2.txt` Renames the file. `mv text.txt /Desktop/text2.txt` Does both!
+
 `touch`
 Use `touch <filename>` to create a file.
 
@@ -52,6 +55,9 @@ Remove (or delete) a file (e.g. rm cats1.jpg deletes the file “cats1.jpg”)
 
 `rmdir <directory name>`
 Removes an empty directory (e.g. rmdir pictures removes a directory called “pictures” as long as that directory is empty)
+
+`rmdir -r <directory name>`
+Removes a directory with contents
 
 `df -h <path>`
 On i6.cims.nyu.edu, use this command to check the amount of space you have left. For example, to check on a student’s folder or directory: `df -h /home1/x/netid` where `x` represents the first letter of your NetID and netid represents your directory on i6 and your netid (eg. “ab123”). For example, for user id “dd123”: `df -h /home1/d/dd123`.
