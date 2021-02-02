@@ -1,14 +1,13 @@
-# Wireframing-5
-
-DUE MARCH 27
+# Vector Graphics: Assignment-5
+### Due Mar 15
 
 ### Wireframing
 
-In this assignment, you will decide on a concept for your next website, do some cursory research and gather reference sites, draw a site map, and create a website wireframe. 
+In this assignment, you will decide on a concept for your next website, do some cursory research and gather reference sites, draw a site map, and create a website wireframe.
 
 ### Part 1
 
-Whereas your first website was about you or some other topic, this one should be about a topic of your choosing with a function of your choosing. Some examples of subjects include a hobby or collection, a specific type of food, a subculture you’re familiar with, or a place that you have specific knowledge about. This could also be a portfolio site or something else. Once you’ve decided what your website will be about, write a paragraph of at least 100 words describing your topic and how it will be presented on the Web. This should include information on what the site is, who it is meant for, as well as any additional and crucial information you would like to include. 
+Whereas your first website was about you or some other topic, this one should be about a topic of your choosing with a function of your choosing. Some examples of subjects include a hobby or collection, a specific type of food, a subculture you’re familiar with, or a place that you have specific knowledge about. This could also be a portfolio site or something else. Once you’ve decided what your website will be about, write a paragraph of at least 100 words describing your topic and how it will be presented on the Web. This should include information on what the site is, who it is meant for, as well as any additional and crucial information you would like to include.
 
 ### Part 2
 
@@ -20,13 +19,13 @@ Once you have a sense of what your website will be about, draw a site map of its
 
 ### Part 4
 
-Using pencil and paper or collage or any number of digital tools, create a page layout that represents the design layout of your next website. This is an opportunity for you to make design decisions before applying them with code. The layout should include dummy text, image placeholders, and navigation. You need not concern yourself with specific content at this stage; instead, focus on the arrangement of compositional elements on the page. You’re welcome to use the same general layout for every page of the site; if you choose to vary the layout for different pages, create a separate wireframe for each. When you have completed your handmade wireframe(s), take a picture of it or scan it so that you have a digital image of your work. Most likely, you will have at least two different designs for pages, one for the home page and one for other pages. You may have many more than that though. 
+Using pencil and paper or collage or any number of digital tools, create a page layout that represents the design layout of your next website. This is an opportunity for you to make design decisions before applying them with code. The layout should include dummy text, image placeholders, and navigation. You need not concern yourself with specific content at this stage; instead, focus on the arrangement of compositional elements on the page. You’re welcome to use the same general layout for every page of the site; if you choose to vary the layout for different pages, create a separate wireframe for each. When you have completed your handmade wireframe(s), take a picture of it or scan it so that you have a digital image of your work. Most likely, you will have at least two different designs for pages, one for the home page and one for other pages. You may have many more than that though.
 
 ### Part 5: Extra Credit
 
 Now that you have an idea of what your layout should look like via the wireframes, prototype the homepage with HTML and CSS only. Prepare actual text and image content for the page (preferably your own, original content but feel free to draw from other sources as well). For this assignment you will only be coding one page of the site. Therefore, use “null” links for the navigation by giving the href attributes a value of "#". Your goal is to translate the drawing/collage you made in part 3 with HTML and CSS code and text and image content. To that end, you should incorporate the CSS float property into your styles in some way and clear it as necessary.
 
-This is an extra credit step. In any case, for the next assignment on "Responsive Web", this step will have to be done in order for us to play around with making our site responsive. Doing it now not only gives you extra credit, but saves you time for the next assignment. 
+This is an extra credit step. In any case, for the next assignment on "Responsive Web", this step will have to be done in order for us to play around with making our site responsive. Doing it now not only gives you extra credit, but saves you time for the next assignment.
 
 ### Publishing Your Page
 

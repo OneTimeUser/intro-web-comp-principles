@@ -1,4 +1,5 @@
-# Web Frameworks: Assignment- 7
+# Responsive: Assignment- 7
+### Due Apr 7
 
 **DUE APRIL 19th**
 
@@ -6,7 +7,7 @@ In this assignment, you will integrate your current website into the Bootstrap f
 
 Make a new project folder where you will put all your website files for this assignment.
 
-Follow instructions for getting started with Bootstrap. This is simply a matter of linking to the files that Bootstrap depends on or downloading the files and linking to them in your folder. (link: https://getbootstrap.com/docs/4.0/getting-started/introduction/ text: This is the link to "Getting Started"). Do not use any other method of besides this one. It will only complicate your life for now. 
+Follow instructions for getting started with Bootstrap. This is simply a matter of linking to the files that Bootstrap depends on or downloading the files and linking to them in your folder. (link: https://getbootstrap.com/docs/4.0/getting-started/introduction/ text: This is the link to "Getting Started"). Do not use any other method of besides this one. It will only complicate your life for now.
 
 Follow the instructions in the above Bootstrap page. In addition, under the "Bootstrap Styles" section in the head of your HTML, create a new link to a stylesheet of your own, which is custom.css or whatever you want to name it. This will be your own custom CSS file in addition to the Bootstrap CSS file that you are linking to.
 Now create that custom CSS file.
@@ -27,7 +28,7 @@ You can quickly and easily change the default style of components and interactiv
 
 For each element you want to customize, find its code in the compiled Bootstrap CSS
 
-Copy the component's selector and styles and paste them in your custom stylesheet. 
+Copy the component's selector and styles and paste them in your custom stylesheet.
 
 For instance, to customize the navbar background, just copy the `.navbar` style specification in the CSS and paste it in your custom stylesheet. Then edit the CSS you just copied from the Bootstrap source.
 

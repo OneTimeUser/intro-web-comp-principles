@@ -1,4 +1,5 @@
-# Javascript and JQuery: Assignment-8
+# Final Project: Assignment-9
+### Due May 5
 
 In this assignment you will use jQuery and Javascript to add interactivity to your website.
 
@@ -12,7 +13,7 @@ For Javascript, here is what should be done in your code:
 
 1. use Javascript to access elements (i.e. `querySelector`)
 2. use Javascript to change element content (such as text or images)
-3. use Javascript to change element style 
+3. use Javascript to change element style
 
 For JQuery:
 

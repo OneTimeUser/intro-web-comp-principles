@@ -1,5 +1,4 @@
-# Images and Animation: Assignment-4
-
+# Raster Graphics: Assignment-4
 ### DUE: MARCH 8
 
 ### Part 1: Image
@@ -31,7 +30,7 @@ Create a basic HTML page for your project and use the img element to display bot
 
 ### Submitting Your Assignment
 
-Submit the following via NYU Classes. 
+Submit the following via NYU Classes.
 
 1. The URL to your new web page that displays the images on i6
 2. A compressed archive containing your Photoshop project file, JPG or PNG, GIF, and HTML document

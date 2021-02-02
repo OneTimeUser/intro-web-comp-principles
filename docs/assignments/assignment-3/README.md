@@ -1,4 +1,5 @@
 # CSS:Assignment-3
+### Due Mar 1
 
 ### CSS
 
@@ -26,7 +27,7 @@ Finally, create a link from the “CSS” line of your assignments directory to 
 
 ### Submitting Your Assignment
 
-Submit the following via NYU Classes. 
+Submit the following via NYU Classes.
 
 1. The URL to your website on i6
 2. A compressed archive containing all the files (HTML, CSS, and images) of your website

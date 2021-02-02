@@ -1,4 +1,5 @@
-# Responsive Design: Assignment-6
+# Layout: Assignment-6
+### due Mar 31
 
 In this assignment, you will incorporate CSS media queries into the design from the last assignment. If you haven't already coded up the prototype pages in html, you must do so now.
 
