@@ -25,14 +25,13 @@ Web page address (URL): http://i6.cims.nyu.edu/~netid
 
 ### Accessing i6 from the Command Line
 
-Mac and Linux Computers:
+Mac and Linux Computers:\
 Mac and Linux users can use Terminal to access i6 from the command line. Terminal is available in macOS via Applications > Utilities > Terminal.
 At the $ prompt, type in the following—substituting netid with your NetID—and press Enter.\
 `ssh netid@i6.cims.nyu.edu`
 
 Windows Computers:\
-PC users can download and use PuTTY, an SSH and telnet client, to access i6.
-Type in the name of the host which, in our case, is i6.cims.nyu.edu; select “SSH” and click “Open.”
+PC users can download and use PuTTY, an SSH and telnet client, to access i6. Or, download [HYPER](hyper.is) which acts as a Terminal window where UNIX commands are accepted (in which case you follow the instructions for MAC/LINUX above). If sticking with PuTTY, type in the name of the host which, in our case, is i6.cims.nyu.edu; select “SSH” and click “Open.”
 For reference, here is a screenshot of a PuTTY Configuration window.\
 ![screenshot](putty-i6.gif)
 
