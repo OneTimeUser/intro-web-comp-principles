@@ -4,18 +4,18 @@
 
 1. [UNIX - due Feb. 10](assignments/assignment-1/)
 
-[comment]: # ([HTML - due Feb 18] assignments/assignment-2/)
+2. [HTML - due Feb 18]()
 
-[comment]: # ([CSS - due Mar 1] assignments/assignment-3/)
+3. [CSS - due Mar 1]()
 
-[comment]: # ([Raster Graphics - due Mar 8] assignments/assignment-4/)
+4. [Raster Graphics - due Mar 8]()
 
-[comment]: # ([Vector Graphics - due Mar 15] assignments/assignment-5/)
+5. [Vector Graphics - due Mar 15]()
 
-[comment]: # ([Page Layout - due Mar 31] assignments/assignment-6/)
+6. [Page Layout - due Mar 31]()
 
-[comment]: # ([Responsive Design- due April 7] assignments/assignment-7/)
+7. [Responsive Design- due April 7]()
 
-[comment]: # ([Javascript-due April 21] assignments/assignment-8/)
+8. [Javascript-due April 21]()
 
-[comment]: # ([Final Project-due May 5] assignments/assignment-9/)
+9. [Final Project-due May 5]()
