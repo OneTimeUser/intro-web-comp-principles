@@ -16,7 +16,8 @@ Change directory up one level to the parent directory
 Go back to the previous directory, not to be confused with parent directory.
 
 `chmod`
-Modifies the permissions on a directory
+Modifies the permissions on a directory\
+Learn more about chmod [here](https://linuxize.com/post/chmod-command-in-linux/)
 
 `cp <current filename> <new file name>`
 Copy (e.g. cp cats1.jpg cats2.jpg makes a copy of the picture “cats1.jpg” and calls it “cats2.jpg”)
