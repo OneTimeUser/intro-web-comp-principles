@@ -10,10 +10,12 @@ Introduction\
 
 Unix\
 [UNIX Lecture](https://onetimeuser.github.io/intro-web-comp-principles/week-1/unix.pdf)\
-Link to Video - See below.
+[Link to Video](https://nyu.zoom.us/rec/play/DVM4ogWINMls5V3Z4F09ReklvOLp--cA105TgKM9mGM7UGuODFHK9EFb6zNvKMBMpPIC8hppfXvDafFS.b-ucCcUqQeT9egsE)\
+Let me know if you have any issues downloading.\
+*in the video I brain lapsed on `rmdir -r <foldername>` not removing a directory. Apologies, it's `rm -r <foldername>` that actually removes the folder even if it contains items. 
 
 ### Synchronous Zoom
-It turns out that my Zoom settings were wonky. Sorry everyone, just experiencing a lot of trouble acclimating to the NYU ecosystem. I will record a quick session of just the UNIX commands for everyone.  Will upload shortly. 
+See above
 
 ### Homework
 - Browse class site- there are many resources on this site that will help you. At different points in the year we will address some of these resources.
