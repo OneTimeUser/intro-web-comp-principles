@@ -61,7 +61,7 @@ Remove (or delete) a file (e.g. rm cats1.jpg deletes the file “cats1.jpg”)
 `rmdir <directory name>`
 Removes an empty directory (e.g. rmdir pictures removes a directory called “pictures” as long as that directory is empty)
 
-`rmdir -r <directory name>`
+`rm -r <directory name>`
 Removes a directory with contents
 
 `df -h <path>`
