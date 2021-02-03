@@ -6,7 +6,8 @@
 Change directory to HOME directory
 
 `cd <directory name>`
-Change directory (e.g. `cd pictures` brings you to the sub-directory “pictures” in your current directory, but you can teleport anywhere so long as you know the directory structure. Take this: `cd ~/Desktop/Images/toUpload`. That command will take me to that folder no matter where I am currently located.)
+Change directory (e.g. `cd pictures` brings you to the sub-directory “pictures” in your current directory, but you can teleport anywhere so long as you know the directory structure.\
+Take this: `cd ~/Desktop/Images/toUpload`. That command will take me to that folder no matter where I am currently located.)
 
 `cd ..`
 Change directory up one level to the parent directory
@@ -39,7 +40,10 @@ This is the online Unix help documentation (as in “manual”). Type `man` + th
 Creates a new directory (e.g. `mkdir pictures` creates a directory called “pictures”)
 
 `mv <filname> <destination or filename>`
-Moves a file elsewhere or renames it or both. `mv text.txt /Desktop/` Moves a text file in your current directory to the Desktop. `mv text.txt text2.txt` Renames the file. `mv text.txt /Desktop/text2.txt` Does both!
+Moves a file elsewhere or renames it or both.\
+- `mv text.txt /Desktop/` Moves a text file in your current directory to the Desktop.
+- `mv text.txt text2.txt` Renames the file.
+- `mv text.txt /Desktop/text2.txt` Does both!
 
 `touch`
 Use `touch <filename>` to create a file.
