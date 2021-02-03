@@ -5,11 +5,11 @@
 In this first class, we briefly go over elements and principles of the Internet, since that will be the medium we work with throughout the semester. We also go over [UNIX](/unix) and some helpful commands to get you comfortable on the 'command line'.
 
 Introduction\
-[Introduction Lecture](week-1/intro.pdf)\
+[Introduction Lecture](https://onetimeuser.github.io/intro-web-comp-principles/week-1/intro.pdf)\
 [Link to Video](https://nyu.zoom.us/rec/play/B__S-MLcyUF2RHP7ZmvbNWN0B3O8jXME-q9okoXnGe1HztH9sdOaZr1yjein5RcCwE5--jeqWakvIU9T.MwYgzI7-WxAC_HNM)
 
 Unix\
-[UNIX Lecture](week-1/unix.pdf)\
+[UNIX Lecture](https://onetimeuser.github.io/intro-web-comp-principles/week-1/unix.pdf)\
 Link to Video - Coming Soon...there was an error in the screen recording. Will redo ASAP.
 
 ### Synchronous Zoom
