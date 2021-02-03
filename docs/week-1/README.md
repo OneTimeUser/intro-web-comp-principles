@@ -10,10 +10,10 @@ Introduction\
 
 Unix\
 [UNIX Lecture](https://onetimeuser.github.io/intro-web-comp-principles/week-1/unix.pdf)\
-Link to Video - Coming Soon...there was an error in the screen recording. Will redo ASAP.
+Link to Video - See below.
 
 ### Synchronous Zoom
-Link to Video - Coming After Class Wednesday
+It turns out that my Zoom settings were wonky. Sorry everyone, just experiencing a lot of trouble acclimating to the NYU ecosystem. I will record a quick session of just the UNIX commands for everyone.  Will upload shortly. 
 
 ### Homework
 - Browse class site- there are many resources on this site that will help you. At different points in the year we will address some of these resources.
