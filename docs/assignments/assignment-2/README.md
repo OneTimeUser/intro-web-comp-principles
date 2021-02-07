@@ -51,8 +51,8 @@ This assignment is worth 10 points.
 - Pages should link to each other with relative URLs. (1 point)
 - Each page should also include an absolute URL linking to an external website. (1 point)
 - Each page should include at least one image in JPG, PNG, or GIF format. (1 point)
-- All image elements should include src, width or height, and alt attributes with appropriate values. (1 point)
+- All image elements should include `src`, `width` or `height`, and alt attributes with appropriate values. (1 point)
 - At least one of the pages should include a list (1 point)
-- There should be semantic section elements on each page, including <main>, <header>, and <footer>. (1 point)
+- There should be semantic section elements on each page, including `<main>`, `<header>`, and `<footer>`. (1 point)
 
 Points may be deducted for improperly formed HTML elements.
