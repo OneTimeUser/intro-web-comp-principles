@@ -20,8 +20,9 @@ Three HTML web pages—about you—form the heart of the current assignment. Any
 - The pages should link to each other with “relative” URLs.
 - Each page should also include at least one “absolute” URL linking to an external website.
 - You should include at least one image (JPG, PNG, or GIF) on each page. (We’ve not covered image editing yet but feel free to use images from your digital camera or smartphone as well as images downloaded from the Web.)
-- All img elements should include src, width, height, and alt attributes with appropriate values.
-- You should also include an HTML table somewhere on one of your pages.
+- All img elements should include src, width or height, and alt attributes with appropriate values.
+- You should include an HTML list somewhere on one of your pages; this can be an ordered, unordered, or description list.
+- There should be semantic section elements on each page, including but not limited to <main>, <header>, and <footer>
 - Pay close attention to your HTML tags and be sure to test your pages locally using Firefox, Safari, or Chrome.
 
 ### Publishing Your Site
@@ -44,18 +45,14 @@ Please note that you are required to submit files along with URLs in order to re
 
 This assignment is worth 10 points.
 
-- A new website of at least three pages about the student. (3 points)
+- A new website of at least three pages about the student. (2 points)
 - Website should be in its own subdirectory called “me” and the home page should be an “index.html” file. (1 point)
 - Each page should contain both paragraph and heading text. (1 point)
 - Pages should link to each other with relative URLs. (1 point)
 - Each page should also include an absolute URL linking to an external website. (1 point)
 - Each page should include at least one image in JPG, PNG, or GIF format. (1 point)
-- All image elements should include src, width, height, and alt attributes with appropriate values. (0.5 point)
-- At least one of the pages should include an HTML table (1 point)
-- The assignments directory page from Assignment 1 should include a relative URL linking to the home page of this assignment. (0.5 point)
+- All image elements should include src, width or height, and alt attributes with appropriate values. (1 point)
+- At least one of the pages should include a list (1 point)
+- There should be semantic section elements on each page, including <main>, <header>, and <footer>. (1 point)
 
 Points may be deducted for improperly formed HTML elements.
-
-**Extra Credit:**
-
-Correct use of HTML5 header, nav, footer, section, and article elements  on one or more pages. (2 points)
