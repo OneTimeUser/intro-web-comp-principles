@@ -12,7 +12,7 @@ Welcome to HTML. HTML is the ever important structural support for the sites and
     Chapter 5: Marking Up Text
 
 #### HTML Continued
-Structural Elements
+Structural Elements\
 Semantic Elements
 
 [Right Click and 'Save File As' to download zip file]((https://onetimeuser.github.io/intro-web-comp-principles/week-2/intro-web-example.zip)) - then drag the HTML file into your code editor
