@@ -1,14 +1,14 @@
 # HTML: Assignment-2
 ### Due Feb 18
 
-In this assignment, you will create a three-page website about yourself.
+In this assignment, you will create a three-page website about something: yourself, a hobbie, whatever.
 
 
 ### Project Setup
 
-Create a new directory (folder) on your computer called “me”. HTML and image files associated with your new website should be placed inside of this directory. The home page of your website should be named “index.html”. Other pages can be named as you like, as long as filenames are lowercase, with no spaces.
+Create a new directory (folder) on your computer called “me” or "robot-soccer", or you get the idea. HTML and image files associated with your new website should be placed inside of this directory. The home page of your website should be named “index.html”. Other pages can be named as you like, as long as filenames are lowercase, with no spaces.
 
-When your website is finished, you will upload the “me” directory, along with its contents, to your i6 account. Your new website will then be available at: i6.cims.nyu.edu/~netid/me/
+When your website is finished, you will upload the project directory, along with its contents, to your i6 account. Your new website will then be available at (if your folder containing all your files and images is called 'me'): i6.cims.nyu.edu/~netid/me/
 
 ### Your Website
 
@@ -22,14 +22,14 @@ Three HTML web pages—about you—form the heart of the current assignment. Any
 - You should include at least one image (JPG, PNG, or GIF) on each page. (We’ve not covered image editing yet but feel free to use images from your digital camera or smartphone as well as images downloaded from the Web.)
 - All img elements should include src, width or height, and alt attributes with appropriate values.
 - You should include an HTML list somewhere on one of your pages; this can be an ordered, unordered, or description list.
-- There should be semantic section elements on each page, including but not limited to <main>, <header>, and <footer>
+- There should be semantic section elements on each page, including but not limited to `<main>`, `<header>`, and `<footer>`
 - Pay close attention to your HTML tags and be sure to test your pages locally using Firefox, Safari, or Chrome.
 
 ### Publishing Your Site
 
-Upload your “me” directory, including the HTML and the image files, to the i6 Unix server with an FTP client such as Fetch (from ITS) or WinSCP. Your files should go in the same, “public_html” directory that your assignments page is in. Test your pages again using Firefox, Safari, or Chrome once they are “live” on the Web server to make sure they are accessible.
+Upload your project directory, including the HTML and the image files, to the i6 Unix server with an FTP client such as Fetch (from ITS) or WinSCP. Your files should go in the same “public_html” directory that your assignments page is in. Test your pages again using Firefox, Safari, or Chrome once they are “live” on the Web server to make sure they are accessible.
 
-Finally, create a link from the “HTML” line of your assignments directory to the home page of your new website.
+Finally, create a link from the “HTML” line of your assignments directory to the home page of your new website. So, make sure the first assignment line, HTML, is an anchor element that links to the index.html file of you newly created project folder. So, a link path for a project folder titled 'me' would look like: `me/index.html` or even `me/`
 
 ### Submitting Your Assignment
 
@@ -45,8 +45,8 @@ Please note that you are required to submit files along with URLs in order to re
 
 This assignment is worth 10 points.
 
-- A new website of at least three pages about the student. (2 points)
-- Website should be in its own subdirectory called “me” and the home page should be an “index.html” file. (1 point)
+- A new website of at least three pages about a topic. (2 points)
+- Website should be in its own subdirectory (called whatever you name it) and the home page should be an “index.html” file. (1 point)
 - Each page should contain both paragraph and heading text. (1 point)
 - Pages should link to each other with relative URLs. (1 point)
 - Each page should also include an absolute URL linking to an external website. (1 point)
