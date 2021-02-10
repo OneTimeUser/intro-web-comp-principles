@@ -27,3 +27,9 @@ Here is a snapshot of a basic layout of a smart HTML5 semantic page:
 
 - READ Learning Web Design\
     Chapter 12: Formatting Text
+
+#### Follow Up
+In the previous videos, I admit that my directory was looking pretty filthy so I recorded a quick follow up to show you how I reorganized everything and rechecked my documents to fix links that would be broken.
+
+[Right Click and 'Save File As' to download zip file](https://onetimeuser.github.io/intro-web-comp-principles/week-3/intro-web-cleaned.zip)\
+[Link to Video](https://nyu.zoom.us/rec/share/qM2weLVHhxSFl7ceGOyGF6_IhlT3EWVKCE1PZzzZS7xeq7I6MarsIVq7UBLOEa4O.McIsZr27d4-ih1Pt)
