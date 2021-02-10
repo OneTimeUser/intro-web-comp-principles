@@ -5,10 +5,10 @@
 * **Weekly Topics**
     * [Week 1 - Introduction / UNIX](week-1/)
     * [Week 2 - HTML](week-2/)
-    * Week 3 - HTML / CSS
+    * [Week 3 - HTML](week-3/)
     * Week 4 - CSS
-    * Week 5 - Raster Graphics
-    * Week 6 - Vector Graphics
+    * Week 5 - CSS/Graphics Intro
+    * Week 6 - Vector/Raster Graphics
     * Week 7 - Review / Midterm
     * Week 8 - Design & Access / Layout
     * Week 9 - Layout / Responsive
