@@ -4,6 +4,9 @@
 
 Welcome to HTML. HTML is the ever important structural support for the sites and apps you visit online!
 
+### Synchronous Zoom
+[Link to Video from Feb 10](https://nyu.zoom.us/rec/play/FSLg0HNTVPozQojyzsSHKi0iz5TNnL8NZkCx8X5FmG-JLyh4F6LRJpLzIMpbDNKmCGekuxT6FWe4lLFR.Gcf9PxbkION2H8DS)
+
 #### HTML an Intro
 [Download HTML Intro Lecture](https://onetimeuser.github.io/intro-web-comp-principles/week-2/Week-2.pdf)\
 [Link to Video](https://nyu.zoom.us/rec/share/K9S15S_JCGsDOqW2VIFCq1MmIKMp_ChOGL70fEDkFchEfYZUr8jTPNkuw_gENSxT.BnNUvaUTGs66sszz?startTime=1612565477000)
