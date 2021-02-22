@@ -6,7 +6,7 @@
     * [Week 1 - Introduction / UNIX](week-1/)
     * [Week 2 - HTML](week-2/)
     * [Week 3 - HTML](week-3/)
-    * Week 4 - CSS
+    * [Week 4 - CSS](week-4/)
     * Week 5 - CSS/Graphics Intro
     * Week 6 - Vector/Raster Graphics
     * Week 7 - Review / Midterm

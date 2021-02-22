@@ -1,14 +1,23 @@
-# Week 1: Introduction and UNIX
+# Week 5: CSS Basic Layout and Graphics Intro
 
 ### Lecture
 
-In this first class, we briefly go over elements and principles of the Internet, since that will be the medium we work with throughout the semester.
+Welcome to CSS! Now we can finally begin to make our HTML look like something!
 
-Introduction
-[Download Introduction Lecture](1a.pdf)
+### Synchronous Zoom
 
-UNIX
+#### Layout
+
 [Download Introduction Lecture](1a.pdf)
+- READ Learning Web Design\
+    Chapter 13: Colors and Backgrounds
+
+#### Graphics
+
+
+- READ Learning Web Design\
+    Chapter 14: Thinking Inside the Box\
+    Chapter 15: Floating and Positioning
 
 ### Homework
 - Browse class site- there are many resources on this site that will help you. At different points int the year we will address some of these resources.

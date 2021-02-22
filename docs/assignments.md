@@ -6,7 +6,7 @@
 
 2. [HTML - due Feb 18](assignments/assignment-2/)
 
-3. CSS - due Mar 1
+3. [CSS - due Mar 3](assignments/assignment-3/)
 
 4. Raster Graphics - due Mar 8
 

@@ -1,5 +1,5 @@
 # CSS:Assignment-3
-### Due Mar 1
+### Due Mar 3
 
 ### CSS
 
@@ -13,7 +13,7 @@ Here is a list of required elements to include.
 - At least one HTML page should include an internal style sheet (within the head section of the document, below the external style sheet link) with at least one rule set.
 - At least one HTML page should include an inline style rule (as a style attribute of an HTML element).
 - Your style rules should specify font family and font size for paragraph and heading text.
-- Your style rules should specify link states including link, visited, hover, and active.
+- Your style rules should specify link states including link, visited, hover and any others you want.
 - You should specify either a background image or background color for your pages.
 - Create a class somewhere in your HTML that is targeted and styled with CSS.
 - Create an id somewhere in your HTML that is targeted and styled with CSS.
