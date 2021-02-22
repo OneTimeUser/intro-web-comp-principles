@@ -5,7 +5,7 @@
 Welcome to CSS! Now we can finally begin to make our HTML look like something! So let's get styling!
 
 #### CSS
-[Download Intro-CSS Lecture](4.pdf)\
+[Download Intro-CSS Lecture](https://onetimeuser.github.io/intro-web-comp-principles/week-4/4.pdf)\
 [Link to CSS Intro](https://nyu.zoom.us/rec/play/0H1DtEkk5ZXPiEhkhvGmpxRZ_LB55Nvq7n6F58pv3d_Ue3FuVQBMxLl5A_pp_832QtoAQ8c0k3Qvz9sx.JYLTmFMYRpD2SNQb)\
 [Link to CSS Coding Video](https://nyu.zoom.us/rec/play/LCtZSyu0UYdyAH9xDXQ77oYnyqAvVgDf88F8ViV3mjzG_PqnypfOnQgSEDJDJVBOgFEmImDTJ7yJ_A0T.plBCRzqusZOrwFRE)
 
