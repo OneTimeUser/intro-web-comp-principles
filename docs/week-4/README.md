@@ -127,4 +127,4 @@ You can also use [@font-face](https://developer.mozilla.org/en-US/docs/Web/CSS/@
 ### Synchronous Zoom
 
 ### Assignment
-- [ASSIGNMENT 3 - Due March 3](/assignments/assignment-3/)
+- [ASSIGNMENT 3 - Due March 8](/assignments/assignment-3/)
