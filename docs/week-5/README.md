@@ -1,4 +1,4 @@
-# Week 5: CSS Basic Layout and Graphics Intro
+# Week 5: CSS (table styles / selectors pseudo / float positioning)
 
 ### Lecture
 

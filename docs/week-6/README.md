@@ -1,4 +1,4 @@
-# Week 1: Introduction and UNIX
+# Week 1: Graphics
 
 ### Lecture
 
