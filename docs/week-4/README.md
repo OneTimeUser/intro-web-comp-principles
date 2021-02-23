@@ -2,7 +2,8 @@
 
 ### Lecture
 
-Welcome to CSS! Now we can finally begin to make our HTML look like something! So let's get styling!
+Welcome to CSS! Now we can finally begin to make our HTML look like something! So let's get styling!\
+Here's a [good reference (ok, cheat sheet)](https://adam-marsden.co.uk/css-cheat-sheet) for CSS that will link to Mozilla's Web Documentation on CSS specifics. Keep it handy!
 
 #### CSS
 [Download Intro-CSS Lecture](https://onetimeuser.github.io/intro-web-comp-principles/week-4/4.pdf)\
