@@ -9,13 +9,13 @@
 #### Professor: Jason Aston
 
 Access the [Zoom tool on NYU Classes](https://newclasses.nyu.edu/portal/site/6505e9ea-f449-4108-b08a-d4f8e572b543/page/d82a5104-e5f4-48f2-82d1-5b7fcedf0bf9) for links to each class meeting\  
-Class will be a mix of async and sync content. I will discuss this in class. 
+Class will be a mix of async and sync content. I will discuss this in class.
 
 #### Office Hours: Mondays 12:15pm-1:15pm
 
 Zoom ID: 741 631 1101
 
-If you cannot attend meetings at this time then we can schedule an alternative meeting time. 
+If you cannot attend meetings at this time then we can schedule an alternative meeting time.
 
 Our very own Slack:
 [https://join.slack.com/t/webmasters-corp/shared_invite/zt-lpwylcr8-CTMsnnLNPQVkqbaa4F7iqg](https://join.slack.com/t/webmasters-corp/shared_invite/zt-lpwylcr8-CTMsnnLNPQVkqbaa4F7iqg)
@@ -52,7 +52,7 @@ You can access an electronic version of the book [via NYU Libraries](https://bob
 
 ## Assignments
 
-All assignments—including attachments—should be submitted via [NYU Classes](https://newclasses.nyu.edu/). 
+All assignments—including attachments—should be submitted via [NYU Classes](https://newclasses.nyu.edu/).
 
 Assignments that you turn in should be your own work. It’s fine to talk to other students and to get assistance in how to do something, but you should not ask another person to do the work for you. For reference, here is the [Computer Science Department’s statement on academic integrity](http://cs.nyu.edu/home/undergrad/policy.html).
 
@@ -68,7 +68,7 @@ It is important not to get behind in turning in assignments. If you do get behin
 7. To attach files, click the Choose File button under “Attachments” to find the file you wish to submit and select it. Add additional files as necessary. Make sure that the file appears as an attachment before you continue.
 8. When you are ready to, click on the Submit button and wait for confirmation before closing the browser window.
 9. Please note that once you have submitted an assignment you can only resubmit it twice, so make sure that what you are submitting is the final version of your assignment. See your instructor with any questions about resubmissions.
-  
+
 
 ## i6 Account
 
@@ -87,21 +87,24 @@ Tutors will be available throughout the semester both in person and remotely at 
 
 Remote tutoring meeting ID: 950 8114 9484
 
-#### Monday
-9:00–11:00 a.m. (Emma, remote)\
-11:00 a.m.–3:30 p.m. (Jiaqi, remote)
-#### Tuesday
-12:30–2:00 p.m. (Jiaqi, remote)\
-5:00–6:00 p.m. (Jiaqi, remote)
-#### Wednesday
-9:00 a.m.–12:00 p.m. (Emma, remote)\
-12:30–6:00 p.m. (Irina, remote)
-#### Thursday
-10:00 a.m.–3:00 p.m. (Max, remote)\
-5:00–6:00 p.m. (Jiaqi, remote)
-#### Friday
-9:00 a.m.–1:30 p.m. (Irina, remote)\
-2:00–4:00 p.m. (Jiaqi, remote)
+
+####Monday
+    9:00–11:00 a.m. (Emma, remote)\
+    11:00 a.m.–3:30 p.m. (Jiaqi, remote)\
+    1:00–3:30 p.m. (Claire, in-person)
+####Tuesday
+    12:30–2:00 p.m. (Jiaqi, remote)\
+    5:00–6:00 p.m. (Jiaqi, remote)
+####Wednesday
+    9:00 a.m.–12:00 p.m. (Emma, remote)\
+    12:30–5:30 p.m. (Irina, remote)\
+    1:00–3:30 p.m. (Claire, in-person)
+####Thursday
+    10:00 a.m.–3:00 p.m. (Max, remote)\
+    5:00–6:00 p.m. (Jiaqi, remote)
+####Friday
+    9:00 a.m.–2:00 p.m. (Irina, remote)\
+    2:00–4:00 p.m. (Jiaqi, remote)
 
 Academic support is also available through the [University Learning Center](http://www.nyu.edu/ulc).
 
