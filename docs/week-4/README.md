@@ -125,6 +125,9 @@ You can also use [@font-face](https://developer.mozilla.org/en-US/docs/Web/CSS/@
     Chapter 15: Floating and Positioning
 
 ### Synchronous Zoom
+[Link to CSS Coding Video](https://nyu.zoom.us/rec/play/l-CViSzdELi1kkDvwmAUWfB-47m57ia5pHP_xYucVUhsk5KneU121CbHwPr2yX7mk-kieh3eh2QpyiTJ.Mkk-vq11hv-8apoR)
+[Project Files: Right Click and 'Save File As' to download zip file](https://onetimeuser.github.io/intro-web-comp-principles/week-4/Week4.zip)
+
 
 ### Assignment
 - [ASSIGNMENT 3 - Due March 8](/assignments/assignment-3/)
