@@ -4,17 +4,21 @@
 
 We continue on with CSS tackling the painful part of CSS, manual positioning.
 
-#### Table Styles and Pseudo selectors
+#### Table Styles and Selectors
 
-[Link to Tables and Pseudo Intro](https://nyu.zoom.us/rec/play/vgSYZJIWOGv8uzotxXuPw_shpAUAZUBJ7utj3RLsOkptLPAHGB8QuHSc3llPtsIK389aD1NajnXntqcA.eXmz9MK5Zvm3OR84)
+[Link to Tables and Selectors Intro](https://nyu.zoom.us/rec/play/vgSYZJIWOGv8uzotxXuPw_shpAUAZUBJ7utj3RLsOkptLPAHGB8QuHSc3llPtsIK389aD1NajnXntqcA.eXmz9MK5Zvm3OR84)
 
 I showed some simple table styling and pseudo selectors like `p:first-child` and `li:nth-child` which essentially offer greater granularity in selecting individual elements within their siblings. This is handy in lists or a matrix of images for example.
 
 Check out this nth-child tester [HERE](css-tricks.com/examples/nth-child-tester) and check out a larger list of helpful structural pseudo-classes [HERE](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes#tree-structural_pseudo-classes).
 
+Also, please look at [Combinators](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Combinators). Combinators will also be very useful in pulling out specific elements that you want to style. For example, a '_' space means 'descendant' (more general than a 'child'), remember? There are plenty more: `>` direct child is probably the most important. 
+
 #### Layout
 
-VIDEO COMING SOON
+[Layout Project files](https://onetimeuser.github.io/intro-web-comp-principles/week-5/positioning.zip)
+
+Open the above file and drag the html file to your browser. You should see a Positioning page with a lot of text and descriptions. Go ahead and open your developer console so you can read along and inspect the elements/css and change alter on the fly to see what the page looks like when you change certain properties and values.
 
 Take your time understanding this.
 
