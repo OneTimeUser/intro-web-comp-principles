@@ -1,24 +1,24 @@
-# Week 5: CSS (table styles / selectors pseudo / float positioning)
+# Week 5: CSS
 
 ### Lecture
 
-Welcome to CSS! Now we can finally begin to make our HTML look like something!
+We continue on with CSS tackling the painful part of CSS, manual positioning.
 
-### Synchronous Zoom
+#### Table Styles and Pseudo selectors
+
+[Link to CSS Intro](https://nyu.zoom.us/rec/play/vgSYZJIWOGv8uzotxXuPw_shpAUAZUBJ7utj3RLsOkptLPAHGB8QuHSc3llPtsIK389aD1NajnXntqcA.eXmz9MK5Zvm3OR84)\
+
+I showed some simple table styling and pseudo selectors like `p:first-child` and `li:nth-child` which essentially offer greater granularity in selecting individual elements within their siblings. This is handy in lists or a matrix of images for example.
+
+Check out this nth-child tester [HERE](css-tricks.com/examples/nth-child-tester) and check out a larger list of helpful structural pseudo-classes [HERE](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes#tree-structural_pseudo-classes).
 
 #### Layout
 
-[Download Introduction Lecture](1a.pdf)
-- READ Learning Web Design\
-    Chapter 13: Colors and Backgrounds
-
-#### Graphics
-
+COMING SOON!
 
 - READ Learning Web Design\
-    Chapter 14: Thinking Inside the Box\
     Chapter 15: Floating and Positioning
 
-### Homework
-- Browse class site- there are many resources on this site that will help you. At different points int the year we will address some of these resources.
-- Read introduction chapter in book
+
+
+### Synchronous Zoom
