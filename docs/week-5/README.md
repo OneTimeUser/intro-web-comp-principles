@@ -14,7 +14,16 @@ Check out this nth-child tester [HERE](css-tricks.com/examples/nth-child-tester)
 
 #### Layout
 
-COMING SOON!
+VIDEO COMING SOON
+
+Take your time understanding this.
+
+We started off talking about the `display` property. I've showed you some of this already and talked about the values `inline` and `block`. Other values to note: `inline-block` and `none`. `display: none;` should be differentiated from `visibility:hidden`.
+
+Floating elements is also another method to position. You can float to the left or right of objects, and use the `clear` property to stop the floating.
+
+Finally, we talk about `position` property which is used quite a lot, and each value has it's own special case, `relative` `absolute` `fixed` `sticky`.
+
 
 - READ Learning Web Design\
     Chapter 15: Floating and Positioning
