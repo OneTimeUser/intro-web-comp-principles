@@ -33,5 +33,8 @@ Finally, we talk about `position` property which is used quite a lot, and each v
     Chapter 15: Floating and Positioning
 
 
-
 ### Synchronous Zoom
+
+[Link to Sync Zoom](https://nyu.zoom.us/rec/play/rt8I1uFJ7HztJss-Ge4hs-5UwtEr2Xh6JtJD4DNDTQ6AFBcfGeNBTJ1__FoLmVl17qiU7nZeda-cEQmO.b71ZxO4TAhvUePN6)
+
+[Sync Project files](https://onetimeuser.github.io/intro-web-comp-principles/week-5/sync-positioning.zip)
