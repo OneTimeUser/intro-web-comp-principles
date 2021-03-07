@@ -30,7 +30,7 @@ Submit the following via NYU Classes.
 
 **This assignment is worth 10 points.**
 
-An original vector graphic (4 points)
-The SVG should be linked to something (1 points)
-The SVG should be styled with CSS in the web page’s stylesheet; styles should include hover states (3 points)
-The SVG logo should be coded into a page of the student’s i6 account with the <svg> element and, for accessibility, the <title> element (2 point)
+- An original vector graphic (4 points)
+- The SVG should be linked to something (1 points)
+- The SVG should be styled with CSS in the web page’s stylesheet; styles should include hover states (3 points)
+- The SVG logo should be coded into a page of the student’s i6 account with the <svg> element and, for accessibility, the <title> element (2 point)
