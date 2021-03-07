@@ -8,9 +8,9 @@
 
 3. [CSS - due Mar 8](assignments/assignment-3/)
 
-4. Raster Graphics - due Mar 15
+4. [Raster Graphics - due Mar 17](assignments/assignment-4/)
 
-5. Vector Graphics - due Mar 17
+5. [Vector Graphics - due Mar 22](assignments/assignment-5/)
 
 6. Page Layout - due Mar 31
 
