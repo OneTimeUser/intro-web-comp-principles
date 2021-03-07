@@ -1,15 +1,32 @@
-# Week 1: Graphics
+# Week 6: Graphics
 
 ### Lecture
 
-In this first class, we briefly go over elements and principles of the Internet, since that will be the medium we work with throughout the semester.
+Graphics!! They add some punch to any website and are fun and fairly easy to work with. We have two types of graphics we are going to cover: raster graphics and vector graphics. Each has some specific types of images that are applicable.
 
-Introduction
-[Download Introduction Lecture](1a.pdf)
+Go ahead and get started by putting [Adobe Creative Cloud on your computer using NYU Services](https://www.nyu.edu/servicelink/KB0017797).
 
-UNIX
-[Download Introduction Lecture](1a.pdf)
+Here are also some Adobe provided tutorials for [Photoshop](https://helpx.adobe.com/photoshop/tutorials.html) and [Illustrator](https://helpx.adobe.com/illustrator/tutorials.html) if you want to engage in more advanced methods!
 
-### Homework
-- Browse class site- there are many resources on this site that will help you. At different points int the year we will address some of these resources.
-- Read introduction chapter in book
+[Link to Graphics Intro Vid](https://nyu.zoom.us/rec/play/qBxqWuFE5MA8BBgiIKhry-QZ8He1mtEOnY-4KEV75HfjMw7mbunGRhyt9bAunX5ezGBaFfGH2UQ2b0I.zg1AJqabvYq1op_g)
+
+[Link to Graphics Intro Slides](https://onetimeuser.github.io/intro-web-comp-principles/week-6/week6.pdf)
+
+- READ Learning Web Design\
+    Chapter 23: Web Image Basics\
+    Chapter 24: Image Asset Production\
+    Chapter 25: SVG
+
+#### Raster Graphics
+
+We talked about the various file types that comprise a raster graphic as well as some of the benefits, fallbacks, and use cases with using raster graphics.
+
+
+#### Vector Graphics
+
+We talked about svg and the `<svg>` element which houses our vector graphics for the web. What are the use cases for this file type?
+
+To know more about how to unpack the svg element and understand it thoroughly, take a look [here](https://css-tricks.com/svg-path-syntax-illustrated-guide/).
+
+
+### Synchronous Zoom
