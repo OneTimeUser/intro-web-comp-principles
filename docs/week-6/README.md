@@ -21,12 +21,16 @@ Here are also some Adobe provided tutorials for [Photoshop](https://helpx.adobe.
 
 We talked about the various file types that comprise a raster graphic as well as some of the benefits, fallbacks, and use cases with using raster graphics.
 
+[Quick Preview of Photoshop](https://nyu.zoom.us/rec/play/m0GkyBvTIFXJKLNSkbhY6qjL4cFxaiGqLq0MwbuYnHl2hcWzdvD64OuPd62l-bPn6XCew9y9xhjCTrEn.pCecKjk6rIrtKQGt)
+
 
 #### Vector Graphics
 
 We talked about svg and the `<svg>` element which houses our vector graphics for the web. What are the use cases for this file type?
 
 To know more about how to unpack the svg element and understand it thoroughly, take a look [here](https://css-tricks.com/svg-path-syntax-illustrated-guide/).
+
+[Quick Preview of Illustrator](https://nyu.zoom.us/rec/play/kY4WNvKMdArVvmz8yDbMk_WoxtVvaKj9HyL7FhHYJfzuy0jF26DNpjzm9ryDecZh1rm1Bh10weagsvCI.S1oxzGvyUerJZ2t8)
 
 
 ### Synchronous Zoom
