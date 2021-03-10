@@ -4,6 +4,13 @@
 
 Welcome to HTML. HTML is the ever important structural support for the sites and apps you visit online!
 
+- What is HTML and who is the main architect?
+- what does HTML look like?
+- the dynamic between browsers, html, and CSS
+- what is a URL and what are the elements that comprise it?
+- what is the difference between structural and semantic HTML and examples?
+- file paths! `../path/to/my-file`
+
 ### Synchronous Zoom
 [Link to Video from Feb 10](https://nyu.zoom.us/rec/play/FSLg0HNTVPozQojyzsSHKi0iz5TNnL8NZkCx8X5FmG-JLyh4F6LRJpLzIMpbDNKmCGekuxT6FWe4lLFR.Gcf9PxbkION2H8DS)
 

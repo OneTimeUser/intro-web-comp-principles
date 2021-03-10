@@ -2,7 +2,10 @@
 
 ### Lecture
 
-We continue on with HTML! There's so much here! Take a breath and pace yourself. You will not use everything everytime! The following lessons are broken into two parts as a continuation of last weeks lessons. Each lesson as a zip file of what was marked up in that video. It is essentially the same file added onto from the lesson before. Finish one before moving to the next.
+We continue on with HTML! There's so much here! Take a breath and pace yourself. You will not use everything every time! The following lessons are broken into two parts as a continuation of last weeks lessons. Each lesson as a zip file of what was marked up in that video. It is essentially the same file added onto from the lesson before. Finish one before moving to the next.
+
+- various important elements and what they do
+- some elements require attributes to function, namely, `<a>` and `<img />`
 
 ### Synchronous Zoom
 [Link to Video from Feb 17](https://nyu.zoom.us/rec/share/tkn3MSs058ZJNyy0kI4OB5vL7T4pjdqrJ8in7WQUfXcVModSSxrnPJkIaeXNhvXs.xhN9Ln2fLX9Jr-lz)\
@@ -10,7 +13,7 @@ We continue on with HTML! There's so much here! Take a breath and pace yourself.
 The above files include the index file as well as assets folder
 
 #### HTML
-We talked about the anchor element: `<anchor>`which are links!\
+We talked about the anchor element: `<a>`which are links!\
 What are `<div>` and `<span>` elements?\
 Newly minted HTML5 semantic elements to help us section out our webpage.
 

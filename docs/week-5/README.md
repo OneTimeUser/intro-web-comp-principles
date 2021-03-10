@@ -12,7 +12,7 @@ I showed some simple table styling and pseudo selectors like `p:first-child` and
 
 Check out this nth-child tester [HERE](css-tricks.com/examples/nth-child-tester) and check out a larger list of helpful structural pseudo-classes [HERE](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes#tree-structural_pseudo-classes).
 
-Also, please look at [Combinators](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Combinators). Combinators will also be very useful in pulling out specific elements that you want to style. For example, a '_' space means 'descendant' (more general than a 'child'), remember? There are plenty more: `>` direct child is probably the most important.
+Also, please look at [Combinators](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Combinators). Combinators will also be very useful in pulling out specific elements that you want to style. For example, a space means 'descendant' (more general than a 'child'), remember? There are plenty more: `>` direct child is probably the most important.
 
 #### Layout
 

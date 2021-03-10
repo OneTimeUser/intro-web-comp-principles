@@ -11,7 +11,7 @@ Here's a [good reference (ok, cheat sheet)](https://adam-marsden.co.uk/css-cheat
 [Link to CSS Coding Video](https://nyu.zoom.us/rec/play/LCtZSyu0UYdyAH9xDXQ77oYnyqAvVgDf88F8ViV3mjzG_PqnypfOnQgSEDJDJVBOgFEmImDTJ7yJ_A0T.plBCRzqusZOrwFRE)
 
 - We talked a bit about CSS and it's history. Check the slides for more on that.
-- We also outlined the 3 ways we include styles in our html: inline, internal and external (preferred).
+- We also outlined the 3 ways we include styles in our html: inline, internal and external (preferred). 
 - There are three components of a style rule: selector, declaration block, and property/value pairs.\
 Simple Example:
 ```
