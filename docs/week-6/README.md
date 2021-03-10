@@ -37,3 +37,5 @@ To know more about how to unpack the svg element and understand it thoroughly, t
 
 
 ### Synchronous Zoom
+
+[Link to Sync Zoom](https://nyu.zoom.us/rec/play/0xHVrKV6AY0TlF-ywJ0cFPvzyC___ynfJGWydws0BXfxljy3X0peg_MJPZizKTZTbCVIi7OZbhjxe0Wj.07AgNft7PtA1w4p-)
