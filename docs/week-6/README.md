@@ -4,6 +4,9 @@
 
 Graphics!! They add some punch to any website and are fun and fairly easy to work with. We have two types of graphics we are going to cover: raster graphics and vector graphics. Each has some specific types of images that are applicable.
 
+- image types and their differences!
+- which image style best suits a specific image types
+
 Go ahead and get started by putting [Adobe Creative Cloud on your computer using NYU Services](https://www.nyu.edu/servicelink/KB0017797).
 
 Here are also some Adobe provided tutorials for [Photoshop](https://helpx.adobe.com/photoshop/tutorials.html) and [Illustrator](https://helpx.adobe.com/illustrator/tutorials.html) if you want to engage in more advanced methods!
