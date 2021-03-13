@@ -1,5 +1,7 @@
 # Week 1: Introduction and UNIX
 
+https://codepen.io/collection/DBgroK
+
 ### Lecture
 
 In this first class, we briefly go over elements and principles of the Internet, since that will be the medium we work with throughout the semester.

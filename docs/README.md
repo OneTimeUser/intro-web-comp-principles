@@ -20,6 +20,8 @@ If you cannot attend meetings at this time then we can schedule an alternative m
 Our very own Slack:
 [https://join.slack.com/t/webmasters-corp/shared_invite/zt-lpwylcr8-CTMsnnLNPQVkqbaa4F7iqg](https://join.slack.com/t/webmasters-corp/shared_invite/zt-lpwylcr8-CTMsnnLNPQVkqbaa4F7iqg)
 
+Some of my relevant [CODEPENS](https://codepen.io/collection/DBgroK) to help inspire and experiment!!!!!
+
 ---
 
 There are two primary aspects to this course. The first is learning how to build websites and prepare the various elements that comprise them. The second is understanding concepts behind computers in general and the Web in particular.
