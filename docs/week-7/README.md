@@ -1,17 +1,12 @@
-# Week 1: Introduction and UNIX
+# Week 7: Midterm
 
-https://codepen.io/collection/DBgroK
 
 ### Lecture
 
-In this first class, we briefly go over elements and principles of the Internet, since that will be the medium we work with throughout the semester.
+Midterm Review!!!!
 
-Introduction
-[Download Introduction Lecture](1a.pdf)
+No surprises, look back at previous Weekly descriptions to understand what will be on the test.
 
-UNIX
-[Download Introduction Lecture](1a.pdf)
+Just for fun and education, [here is a link to some Codepens](https://codepen.io/collection/DBgroK) I have gathered for the class that go over some topics but are mainly for creative/educational purposes. Some of the stuff we have yet to go over. 
 
-### Homework
-- Browse class site- there are many resources on this site that will help you. At different points int the year we will address some of these resources.
-- Read introduction chapter in book
+### Synchronous Zoom
