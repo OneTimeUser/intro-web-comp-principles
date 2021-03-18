@@ -22,6 +22,9 @@ Our very own Slack:
 
 Some of my relevant [CODEPENS](https://codepen.io/collection/DBgroK) to help inspire and experiment!!!!!
 
+####Date of our Final Exam:####
+**May 17, 12-1:50pm**
+
 ---
 
 There are two primary aspects to this course. The first is learning how to build websites and prepare the various elements that comprise them. The second is understanding concepts behind computers in general and the Web in particular.
