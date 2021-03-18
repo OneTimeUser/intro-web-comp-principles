@@ -10,12 +10,12 @@
     * [Week 5 - CSS](week-5/)
     * [Week 6 - Graphics](week-6/)
     * [Week 7 - Review / Midterm](week-7/)
-    * Week 8 - Design & Access / Layout
+    * Week 8 - Layout
     * Week 9 - Responsive
     * Week 10 - Javascript
     * Week 11 - Javascript
-    * Week 12 - Web Forms
-    * Week 13 - Audio Video / Version Control
+    * Week 12 - Audio Video / Version Control 
+    * Week 13 - Design & Access / Web Forms
     * Week 14 - Design Workshop / Hosting and Domains
     * Week 15 - REVIEW / FINAL EXAM
 * [**Working with Local Files**](local-files.md)
