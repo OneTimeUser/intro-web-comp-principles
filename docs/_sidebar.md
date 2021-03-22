@@ -10,7 +10,7 @@
     * [Week 5 - CSS](week-5/)
     * [Week 6 - Graphics](week-6/)
     * [Week 7 - Review / Midterm](week-7/)
-    * Week 8 - Responsive
+    * [Week 8 - Responsive](week-8/)
     * Week 9 - Layout
     * Week 10 - Javascript
     * Week 11 - Javascript

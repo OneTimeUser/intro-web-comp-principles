@@ -1,15 +1,24 @@
-# Week 1: Introduction and UNIX
+# Week 8: Responsive Web
 
 ### Lecture
 
-In this first class, we briefly go over elements and principles of the Internet, since that will be the medium we work with throughout the semester.
+We talk about how to make our web pages responsive to accommodate all sorts of screens: smartphones, tablets, laptops and desktops.
 
-Introduction
-[Download Introduction Lecture](1a.pdf)
+[Link to Responsive Web Intro](https://nyu.zoom.us/rec/play/ZRT-h2LMWovgLr71xkgEoS7HAF0MTaGyPzHdOUDBgxjtuDZ4ShMYXaXwpJAwP_AI4xBjyasr5118EA8q.f435hus84RXsS-fP)
 
-UNIX
-[Download Introduction Lecture](1a.pdf)
+- the ways we add media queries as a separate style sheet or in one style sheet
+- mobile first Design
+- understand how to write media query breakpoints and the idea of cascade
+- css pixels
+- various ways to make responsive images: relative sizing, `srcset` , `<picture>`
+- `meta` element for viewport zooming
+
+
+- READ Learning Web Design\
+    Chapter 17: Responsive Web Design
+
+- Some Additional Resources\
+    [Responsive Images from Firefox](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images)
+    [Responsive Design from Firefox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design)
 
 ### Homework
-- Browse class site- there are many resources on this site that will help you. At different points int the year we will address some of these resources.
-- Read introduction chapter in book
