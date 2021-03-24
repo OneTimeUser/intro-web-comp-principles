@@ -12,9 +12,9 @@
 
 5. [Vector Graphics - due Mar 22](assignments/assignment-5/)
 
-6. Page Layout - due Mar 31
+6. [Responsive Design - due Mar 31](assignments/assignment-6/)
 
-7. [Responsive Design- due April 7
+7. Layout - due April 7
 
 8. Javascript-due April 21
 

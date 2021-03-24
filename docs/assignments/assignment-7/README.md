@@ -1,69 +1,45 @@
-# Responsive: Assignment- 7
-### Due Apr 7
+# Layout: Assignment-7
+### due April 7
 
-**DUE APRIL 19th**
+In this assignment, you will incorporate CSS media queries into your current web project. Also, feel free to begin a new project.
 
-In this assignment, you will integrate your current website into the Bootstrap framework. You may find it easier to start from scratch, copying and pasting in certain html sections where they belong. I'll talk a bit more about this in class.  
+Media Queries will allow your page to change based on whether a visitor to your site is using a smartphone, tablet, or desktop computer. With media queries, you can anticipate and design for a variety of viewing experiences. Next week, will add more sophisticated layout to your projects so don't save layout issues for next week.
 
-Make a new project folder where you will put all your website files for this assignment.
+Each of the web pages should include images and/or text and there should be clear navigation between each of the pages.
 
-Follow instructions for getting started with Bootstrap. This is simply a matter of linking to the files that Bootstrap depends on or downloading the files and linking to them in your folder. (link: https://getbootstrap.com/docs/4.0/getting-started/introduction/ text: This is the link to "Getting Started"). Do not use any other method of besides this one. It will only complicate your life for now.
+### MEDIA QUERIES
 
-Follow the instructions in the above Bootstrap page. In addition, under the "Bootstrap Styles" section in the head of your HTML, create a new link to a stylesheet of your own, which is custom.css or whatever you want to name it. This will be your own custom CSS file in addition to the Bootstrap CSS file that you are linking to.
-Now create that custom CSS file.
+Begin to integrate at least one media query into your code to set breakpoints for the layout and style changes: mobile devices, tablets, and desktop. This could also simply be mobile and desktop. It's up to you.   Media queries can assess a viewer’s browser width and use that information to determine which styles to use for the page. For example, a three-column layout could be used for desktop viewing, a two-column layout for tablets, and a one-column layout for smartphones.
 
-Now, go ahead a download (link: https://github.com/twbs/bootstrap/releases/download/v4.0.0/bootstrap-4.0.0-dist.zip text: Bootstrap Source Files) or go to the downloads page (link: https://getbootstrap.com/docs/4.0/getting-started/download/ text: here) to download the compiled js and css files. Most of this you will not use unless you want to take a look at the nuts and bolts that comprise Bootstrap. But you will want to keep the non-minimized CSS files handy so that customize the default theme according to your needs (SEE BELOW).
+Since you’ll be optimizing your layout for different screen sizes, you should set the viewport on all pages to an initial scale of 1 to prevent smartphones and other devices from scaling pages down:
 
-### Leveraging Bootstrap’s Features
+```
+<!-- Prevent smartphones from scaling pages down -->
+<meta name="viewport" content="initial-scale=1">
+```
+You may want to begin with a simpler, mobile-optimized layout; your media queries could then be used to expand the layout to multiple columns for a wider viewing experience. The desktop layout should include two or more columns with the CSS float or flex property or grid property. Structure your HTML code with divisions in order to position sections of content alongside each other when appropriate.
 
-Familiarize yourself with the various aspects of working with Bootstrap, including the following.
+### RESPONSIVE IMAGES
 
-- The built-in CSS classes that can be used to create custom layouts, including grid-based layouts with responsive layouts features
-- The built-in CSS classes that can be used to style common user interface components, such as buttons, glyphs, drop-down menus, and thumbnail images
-- The built-in CSS classes that can be used to create interactive widgets, such as carousels, tabs, and drop-down menus
-
-### Customizing the Default Theme
-
-You can quickly and easily change the default style of components and interactive widgets by following the customization workflow outlined on the Bootstrap site.
-
-For each element you want to customize, find its code in the compiled Bootstrap CSS
-
-Copy the component's selector and styles and paste them in your custom stylesheet.
-
-For instance, to customize the navbar background, just copy the `.navbar` style specification in the CSS and paste it in your custom stylesheet. Then edit the CSS you just copied from the Bootstrap source.
-
-Continue this process until you’re happy with your customizations.
-
-### Requirements
-
-Here is a list of required elements to include.
-
-- Create at least 3 pages of content with a consistent style
-- Create the general page layout on each page using Bootstrap’s responsive grid layout features
-- Use a single Bootstrap navigation component on all pages to allow visitors to browse among the 3 (or more) pages
-- Use Bootstrap’s carousel widget, including at least three images
-- Incorporate at least one Bootstrap component (such as buttons, glyphs, drop-down menus, etc.) on each page of the site
-- Beyond these requirements, feel free to explore Bootstrap and take this project as far as you would like! Sites that demonstrate extra effort and thoughtfulness will be considered for extra credit. In particular, try to customize your website so that it does not look like Bootstrap’s default themes.
+The resolution of computer displays varies across devices. To optimize your bitmap images for screens with higher resolutions, you can offer larger alternates. To that end, create 2x versions at double the width and height of all your standard website images. Rather than scaling up the smaller image (which would result in lower quality), you should work with original image files to create the 2x versions. Then, use the HTML img element’s srcset attribute along with the src attribute to offer these to compatible browsers.
 
 ### Publishing Your Website
 
-Upload your website to the i6 Unix server in its own directory. Test your files again once they are “live” on the Web server to make sure they are accessible. Update your assignments directory to link to this page.
+Upload your website to the i6 Unix server in its own directory. Test your files again once they are live on the Web server to make sure they are accessible. Update your assignments directory to link to this page.
 
 ### Submitting Your Assignment
-Submit the following via NYU Classes. More information on submitting files with NYU Classes is also available here.
+
+Submit the following via NYU Classes:
 
 - The URL to your website on i6
 - A compressed archive containing all the files of your website
 
 ### Grading
-This assignment is worth 10 points.
 
-- A Bootstrap-powered website of at least three different pages (5 points)
-- A single Bootstrap navigation component on all pages (1 point)
-- At least one Bootstrap component incorporated into each page (1 point)
-- A responsive Bootstrap grid system for page layout (2 points)
-- A Bootstrap carousel widget with at least three images (1 point)
+This assignment is worth 10 points with an opportunity for 1 point extra credit
 
-**Extra credit**
-
-Website demonstrates extra effort and thoughtfulness and does not look very similar to Bootstrap’s default themes. (2 points)
+- A complete website with images, text, and hyperlinks (4 points)
+- At least one media queries with a breakpoint to optimize the layout for different browser widths, including mobile and desktop (2 points)
+- Desktop layout should include two or more columns OR have significant layout change from mobile layout (2 point)
+- Higher-resolution (2x) versions of all website images offered in conjunction with the HTML srcset attribute (2 points)
+- Extra Credit: The use of SVG icons (like fontawesome) or SVG logos (+1 point)
