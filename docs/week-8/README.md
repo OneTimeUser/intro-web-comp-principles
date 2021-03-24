@@ -22,4 +22,10 @@ We talk about how to make our web pages responsive to accommodate all sorts of s
     [Responsive Images from Firefox](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images)\
     [Responsive Design from Firefox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design)
 
-### Homework
+### Synchronous Zoom
+
+[Link to Sync Zoom](https://nyu.zoom.us/rec/play/euSXubr7bBvDFBQZJ8_imLg_qfZRhPtCU5qvLf8Wef0qAs9psJgAa5BzQXv0hlN-6QVXgDVdBTjHuOJw.6WIWBOfe6h3d_sQ9)
+
+### Assignment
+
+- [ASSIGNMENT 6 - Due March 31](/assignments/assignment-6/)
