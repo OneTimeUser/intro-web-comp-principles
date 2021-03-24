@@ -26,6 +26,8 @@ We talk about how to make our web pages responsive to accommodate all sorts of s
 
 [Link to Sync Zoom](https://nyu.zoom.us/rec/play/euSXubr7bBvDFBQZJ8_imLg_qfZRhPtCU5qvLf8Wef0qAs9psJgAa5BzQXv0hlN-6QVXgDVdBTjHuOJw.6WIWBOfe6h3d_sQ9)
 
+[Link to Project Files](https://onetimeuser.github.io/intro-web-comp-principles/week-8/week-8-proj.zip)
+
 ### Assignment
 
 - [ASSIGNMENT 6 - Due March 31](/assignments/assignment-6/)
