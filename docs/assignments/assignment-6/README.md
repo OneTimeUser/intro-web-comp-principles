@@ -50,5 +50,5 @@ This assignment is worth 10 points.
 
 **Extra credit**
 
-- Website demonstrates extra effort and thoughtfulness (3 points)
-- Website is well prepared for advanced layout techniques. (2 points)
+- Website demonstrates extra effort and thoughtfulness (2 points)
+- Media Queries also target floats and other elements in their expansiveness. (2 points)
