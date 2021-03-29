@@ -31,3 +31,5 @@ We talk about how to make our web pages responsive to accommodate all sorts of s
 ### Assignment
 
 - [ASSIGNMENT 6 - Due March 31](/assignments/assignment-6/)
+
+https://player.vimeo.com/video/410040136?color=ffffff&title=0&byline=0&portrait=0

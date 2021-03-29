@@ -14,7 +14,7 @@
 
 6. [Responsive Design - due Mar 31](assignments/assignment-6/)
 
-7. Layout - due April 7
+7. [Layout - due April 7](assignments/assignment-7)
 
 8. Javascript-due April 21
 

@@ -11,7 +11,7 @@
     * [Week 6 - Graphics](week-6/)
     * [Week 7 - Review / Midterm](week-7/)
     * [Week 8 - Responsive](week-8/)
-    * Week 9 - Layout
+    * [Week 9 - Layout](week-9/)
     * Week 10 - Javascript
     * Week 11 - Javascript
     * Week 12 - Audio Video / Version Control
