@@ -4,15 +4,12 @@
 
 Now we move into more advanced layout methods availed to us by CSS3.
 
-[Link to Layout Intro](https://nyu.zoom.us/rec/play/HLGPu_OKtH42XQA1z1kEx-6IhBIeLPCHthJmcCOd8JAOEXkKneAqx_tWbwI_GuW1x3WaOoYwznxV92lp.WKWnjCp16kSe8iSV)
+[Link to Layout Intro](https://nyu.zoom.us/rec/play/HLGPu_OKtH42XQA1z1kEx-6IhBIeLPCHthJmcCOd8JAOEXkKneAqx_tWbwI_GuW1x3WaOoYwznxV92lp.WKWnjCp16kSe8iSV)\
 [Download Layout Slides](https://onetimeuser.github.io/intro-web-comp-principles/week-9/week9.pdf)
 
 - two additional `display` values: `flex` and `grid`
 - Flexible Box or Flexbox is for fluid groups of elements and relaxed layout
 - Grid layout is for stricter layout
-
-- Learning Web Design\
-    Chapter 16: CSS Layout with Flexbox and Grid
 
 - Some Additional Resources\
     [Basic Concepts of Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)\
@@ -29,5 +26,7 @@ Now we move into more advanced layout methods availed to us by CSS3.
 
 
 ### Assignment
+- Learning Web Design\
+    Chapter 16: CSS Layout with Flexbox and Grid
 
 - [ASSIGNMENT 7 - Due March 31](/assignments/assignment-6/)
