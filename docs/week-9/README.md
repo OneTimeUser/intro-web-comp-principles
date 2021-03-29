@@ -1,11 +1,11 @@
-# Week 8: Advanced Layout
+# Week 9: Advanced Layout
 
 ### Lecture
 
 Now we move into more advanced layout methods availed to us by CSS3.
 
-[Link to Responsive Web Intro](https://nyu.zoom.us/rec/play/ZRT-h2LMWovgLr71xkgEoS7HAF0MTaGyPzHdOUDBgxjtuDZ4ShMYXaXwpJAwP_AI4xBjyasr5118EA8q.f435hus84RXsS-fP)
-[Download Responsive Web Slides](https://onetimeuser.github.io/intro-web-comp-principles/week-8/Week-8.pdf)
+[Link to Layout Intro](https://nyu.zoom.us/rec/play/HLGPu_OKtH42XQA1z1kEx-6IhBIeLPCHthJmcCOd8JAOEXkKneAqx_tWbwI_GuW1x3WaOoYwznxV92lp.WKWnjCp16kSe8iSV)
+[Download Layout Slides](https://onetimeuser.github.io/intro-web-comp-principles/week-9/week9.pdf)
 
 - two additional `display` values: `flex` and `grid`
 - Flexible Box or Flexbox is for fluid groups of elements and relaxed layout
@@ -19,14 +19,11 @@ Now we move into more advanced layout methods availed to us by CSS3.
     [Basic Concepts of Grid](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout)\
     [On Grid vs. Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Relationship_of_Grid_Layout#grid_and_flexbox)
 
-- [Codepen Collections](https://codepen.io/collection/DBgroK)
-
-<p class="codepen" data-height="474" data-theme-id="default" data-default-tab="result" data-user="onetimeuser" data-slug-hash="dyNXqzp" style="height: 474px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Demo FLEX 1">
-  <span>See the Pen <a href="https://codepen.io/onetimeuser/pen/dyNXqzp">
-  Demo FLEX 1</a> by Onetimeuser (<a href="https://codepen.io/onetimeuser">@onetimeuser</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+- [Codepen Collections](https://codepen.io/collection/DBgroK)\
+    [Simple Flexbox](https://codepen.io/onetimeuser/pen/dyNXqzp)\
+    [Simple Grid](https://codepen.io/onetimeuser/pen/OJWXoOQ)\
+    [Photo Mosaic Flexbox](https://codepen.io/onetimeuser/pen/KKaMBBZ)\
+    [Photo Grid](https://codepen.io/onetimeuser/pen/JjEKeMx)
 
 ### Synchronous Zoom
 
