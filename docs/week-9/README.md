@@ -29,4 +29,4 @@ Now we move into more advanced layout methods availed to us by CSS3.
 - Learning Web Design\
     Chapter 16: CSS Layout with Flexbox and Grid
 
-- [ASSIGNMENT 7 - Due March 31](/assignments/assignment-6/)
+- [ASSIGNMENT 7 - Due April 7](/assignments/assignment-7/)

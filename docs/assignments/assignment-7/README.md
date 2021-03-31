@@ -3,7 +3,9 @@
 
 In this assignment, you will incorporate `grid` and `flex` into your current project. Also, feel free to begin a new project.
 
-Use the CSS Flexible Box Layout Module (Flexbox) for arranging items along one axis—such as menu bars, paragraphs of text, or images. Use the CSS Grid Layout Module for the overall page structure. You can feel free to use the same general layout for every page of the site but you don’t need to.
+Use the CSS Flexible Box Layout Module (Flexbox) for arranging items along one axis—such as menu bars, paragraphs of text, or images. Use the CSS Grid Layout Module for the overall page structure or a smaller component within your website. You can feel free to use the same general layout for every page of the site but you don’t need to.
+
+Start small. Don't feel overwhelmed. These topics can be intense but we are merely dipping our toes!
 
 Each of the web pages should include images and/or text and there should be clear navigation between each of the pages.
 
@@ -29,3 +31,4 @@ This assignment is worth 10 points with an opportunity for 1 point extra credit
 
 **Extra credit**
 - Varied and complex use of Grid and Flexbox beyond default options (3 points)
+- More than one page have correct use of Grid and Flexbox (2 points)
