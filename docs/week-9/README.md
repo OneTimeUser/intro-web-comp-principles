@@ -20,10 +20,19 @@ Now we move into more advanced layout methods availed to us by CSS3.
     [Simple Flexbox](https://codepen.io/onetimeuser/pen/dyNXqzp)\
     [Simple Grid](https://codepen.io/onetimeuser/pen/OJWXoOQ)\
     [Photo Mosaic Flexbox](https://codepen.io/onetimeuser/pen/KKaMBBZ)\
-    [Photo Grid](https://codepen.io/onetimeuser/pen/JjEKeMx)
+    [Photo Grid](https://codepen.io/onetimeuser/pen/JjEKeMx)\
+    [Flexbox](https://codepen.io/onetimeuser/pen/KKaapbO)\
+    [Flex Nav](https://codepen.io/onetimeuser/pen/yLggYQM)\
+    [Grid](https://codepen.io/onetimeuser/pen/WNRRvyP)\
+    [Grid Site Non-Responsive](https://codepen.io/onetimeuser/pen/PoWWqea)\
+    [Grid Site Responsive](https://codepen.io/onetimeuser/pen/bGggdMQ)\
+    [3 Column Site Responsive](https://codepen.io/onetimeuser/pen/KKaapRL)\
+    [Grid and Flex Site](https://codepen.io/onetimeuser/pen/dyNOgQZ)\
+    [In-Progress Bot-Soccer](https://codepen.io/onetimeuser/pen/abpBGxo)
 
 ### Synchronous Zoom
 
+[Sync Class Video Link](https://nyu.zoom.us/rec/play/dKrmm8poB13uI1rB0AOf-iX-iju3gzf02a0ClMY5Sb6ODl9Z_lFavCb_-R1Svf_pdeNIV8cOIXtBqy-s.VU2WCCRuga8rcSmk_)
 
 ### Assignment
 - Learning Web Design\

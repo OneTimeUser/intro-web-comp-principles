@@ -24,11 +24,12 @@ Submit the following via NYU Classes:
 
 ### Grading
 
-This assignment is worth 10 points with an opportunity for 1 point extra credit
+This assignment is worth 10 points with an opportunity for 5 points extra credit
 
 - CSS Flexbox is applied to arrange items along one axis (5 points)
 - CSS Grid is applied for the overall page structure (5 points)
 
 **Extra credit**
-- Varied and complex use of Grid and Flexbox beyond default options (3 points)
-- More than one page have correct use of Grid and Flexbox (2 points)
+- Varied and complex use of Grid and Flexbox beyond default options (2 points)
+- More than one page have correct use of Grid and Flexbox (1 points)
+- Media Queries have been used on a Grid element (2 points)
