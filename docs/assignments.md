@@ -16,6 +16,6 @@
 
 7. [Layout - due April 7](assignments/assignment-7/)
 
-8. Javascript-due April 21
+8. Javascript- due April 21
 
-9. Final Project-due May 5
+9. Final Project- due May 5

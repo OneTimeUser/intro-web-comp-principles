@@ -1,15 +1,23 @@
-# Week 1: Introduction and UNIX
+# Week 9: Javascript
 
 ### Lecture
 
-In this first class, we briefly go over elements and principles of the Internet, since that will be the medium we work with throughout the semester.
+We briefly go over what Javascript is and a tiny bit of history. Then we launch into certain characteristics of Javascript, how to link it up in your html and what a simple document looks like.
 
-Introduction
-[Download Introduction Lecture](1a.pdf)
+[Link to Javascript Intro](https://nyu.zoom.us/rec/play/yb7IK21txHCgqaQMhm4qvip1IZDSlN2Z2kWpoVCm2L1YDv2Rv8DkNM0SXWSaX8J5lFI9XGqUF2KpigwH.Y4A1lTEkf1r2Rd_L)\
+[Download Intro Javascript Slides](https://onetimeuser.github.io/intro-web-comp-principles/week-10/Week-10.pdf)\
+[Download Intro Javascript Project Zip](https://onetimeuser.github.io/intro-web-comp-principles/week-10/week-10-JS.zip)
 
-UNIX
-[Download Introduction Lecture](1a.pdf)
+- the ways you add javascript to your web project
+- what are variables and why do we use them?
+- what data types can be assigned to a variable?
+- what is an expression?
+- what are operators and what are the various types?
 
-### Homework
-- Browse class site- there are many resources on this site that will help you. At different points int the year we will address some of these resources.
-- Read introduction chapter in book
+
+### Synchronous Zoom
+
+### Assignment
+- Learning Web Design\
+    Chapter 21: Intro to Javascript\
+    Chapter 22: Using Javascript\
