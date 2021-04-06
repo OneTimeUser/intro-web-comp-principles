@@ -14,6 +14,7 @@ We briefly go over what Javascript is and a tiny bit of history. Then we launch 
 - what is an expression?
 - what are operators and what are the various types?
 
+[This Page Has A Good Amount of Info on Javascript's Built-In Objects Like `Dates` and `Math`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects#numbers_and_dates)
 
 ### Synchronous Zoom
 
