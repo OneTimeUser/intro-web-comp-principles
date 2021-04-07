@@ -29,3 +29,5 @@ We briefly go over what Javascript is and a tiny bit of history. Then we launch 
 - Learning Web Design\
     Chapter 21: Intro to Javascript\
     Chapter 22: Using Javascript\
+
+- [ASSIGNMENT 8 - Due April 21](/assignments/assignment-8/)
