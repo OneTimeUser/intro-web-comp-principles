@@ -1,32 +1,15 @@
 # Javascript: Assignment-8
 ### Due Apr 21
 
-In this assignment you will use jQuery and Javascript to add interactivity to your website.
+In this assignment you will use Javascript to add interactivity to your website.
 
 ### Instructions
 
-Make revisions and improvements to the site as necessary—you know more about making websites now. Using the JavaScript library, jQuery, and plain Javascript, add a new layer of interactivity to your website. We have gone over ideas already of what you can do, so take the reins and run with it. Nothing too complicated, but I will not stand for copying and pasting my code and just changing the `src` attribute. I will alert the grader of this. Don't forget to use variables when possible!
+Make revisions and improvements to the site as necessary—you know more about making websites now. Using JavaScript add a new layer of interactivity to your website. We have gone over ideas already of what you can do, so take the reins and run with it.
 
-For Javascript, here is what should be done in your code:
+Your JavaScript should be externally applied in a .js document. Include at least two DOM queries to access elements on the page. To make your page feel more interactive, write at least two JavaScript functions that are called in response to DOM events. One of these functions should update page content—such as a change to text or images—and one of the functions should change a CSS property.
 
-- there should be an external .js file that contains all javascript. Call this `pureJS.js`
-
-1. use Javascript to access elements (i.e. `querySelector`)
-2. use Javascript to change element content (such as text or images)
-3. use Javascript to change element style
-
-For JQuery:
-
-- the jQuery library should be included or referenced with your website files along with an **external** .js file with your jQuery code. Call this` jquery.js`
-- Wrap your script in a jQuery ready event.
-- Use jQuery syntax to apply an effect to an element, i.e. hide(), show(), fadeIn(), etc.
-- At least one of these changes should occur in response to a user event, such as “click.”
-
-For the following, use JQuery to rewrite the Javascript requirements above:
-
-1. Use jQuery syntax to access elements (i.e. with CSS-style selectors).
-2. Use jQuery syntax to change element content (such as text or images).
-3. Use jQuery syntax to change element style.
+In addition to the behavior described above, use the JavaScript Date object to update some aspect of the page for every day of the week. For example, a different image could be displayed, a different style rule could be applied, or different text could appear. This should be done for each of the seven days of the week. To that end, you will need to write one or more decision structures with conditional statements such as if and else if.
 
 ### Publishing Your Website
 Upload your website to the i6 Unix server in its own directory. Test your files again once they are “live” on the Web server to make sure they are accessible. Update your assignments directory to link to this page.
@@ -40,12 +23,13 @@ Submit the following via NYU Classes. More information on submitting files with 
 ### Grading
 This assignment is worth 10 points.
 
-**In your working HTML, please link to the `jquery.js` file. But be sure to include the `pureJS.js` file in your zipped folder!**
+- A version of your website with JavaScript interactivity, externally applied in a .js document (2 points)
+- At least two DOM queries (1 point)
+- At least two functions that are called with DOM events (2 points)
+- One of the functions should update page content and one of the functions should change a CSS property (2 points)
+- The JavaScript Date object, used to identify the day of the week (1 point)
+- A JavaScript decision structure to modify a web page uniquely for each day of the week (2 points)
 
-- jQuery library included with the website files and an external .js file with jQuery code wrapped in a ready event (1 point)
-- jQuery and Javascript syntax to access elements (2 point)
-- jQuery and Javascript syntax to change element content (2 point)
-- jQuery and Javascript syntax to change element style (2 point)
-- jQuery syntax to apply an effect to an element (1 point)
-- At least one change should occur in response to a user event (1 point)
-- Use of variables (1 point)
+**Extra credit**
+- use of an array or arrays in your JavaScript (1 points)
+- use of the modulo operator in your code (might have to look this one up) (2 points)
