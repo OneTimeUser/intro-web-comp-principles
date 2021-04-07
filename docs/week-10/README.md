@@ -1,4 +1,4 @@
-# Week 9: Javascript
+# Week 10: Javascript
 
 ### Lecture
 
@@ -17,6 +17,13 @@ We briefly go over what Javascript is and a tiny bit of history. Then we launch 
 [This Page Has A Good Amount of Info on Javascript's Built-In Objects Like `Dates` and `Math`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects#numbers_and_dates)
 
 ### Synchronous Zoom
+
+[Link to Sync JavaScript Intro](https://nyu.zoom.us/rec/play/3DGbgiMwZziMlNnutdgFj8WV4dnCI3apCJ76dB-3H-oSTZGF2loU-5ElVeldkX0L_AVnhJujzguIJ09W.Nf8Kb5oafAL_ploC)\
+[Sync Project Files](https://onetimeuser.github.io/intro-web-comp-principles/week-10/week-10-sync.zip)
+
+[Further Exploration of Anchor Object Properties to Change](https://www.w3schools.com/jsref/dom_obj_anchor.asp): You may want to focus on just dynamically changing the link or `href` property.\
+[Further Exploration of Image Object Properties to Change](https://www.w3schools.com/jsref/dom_obj_image.asp): the `src` is the focus usually.\
+[Full List of Properties and Methods for General DOM Objects](https://www.w3schools.com/jsref/dom_obj_all.asp): Take a look, there is so much you can do!
 
 ### Assignment
 - Learning Web Design\
