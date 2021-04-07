@@ -12,7 +12,7 @@
     * [Week 7 - Review / Midterm](week-7/)
     * [Week 8 - Responsive](week-8/)
     * [Week 9 - Layout](week-9/)
-    * [Week 10 - Javascript](week-10)
+    * [Week 10 - Javascript](week-10/)
     * Week 11 - Javascript
     * Week 12 - Audio Video / Version Control
     * Week 13 - Design & Access / Web Forms
