@@ -13,7 +13,7 @@
     * [Week 8 - Responsive](week-8/)
     * [Week 9 - Layout](week-9/)
     * [Week 10 - Javascript](week-10/)
-    * Week 11 - Javascript
+    * [Week 11 - Javascript](week-11/)
     * Week 12 - Audio Video / Version Control
     * Week 13 - Design & Access / Web Forms
     * Week 14 - Design Workshop / Hosting and Domains
