@@ -12,8 +12,22 @@ This week we learn about JavaScript Events and some preliminary ways we handle e
 - some of the major event handler properties are: `onclick`, `onmouseenter`, `onfocus`, `onerror`, `onkeypress`, `onload`, `onscroll`, `onresize`, `onselect`, and `onsubmit`; but there are many many [more](https://developer.mozilla.org/en-US/docs/Web/API/GlobalEventHandlers#event_handlers).
 - event types for adding event listeners are pretty much the same (just remove the 'on' part of the event handler property above). Find the official listing [here](https://developer.mozilla.org/en-US/docs/Web/Events#event_listing).
 - CSS transitions property is a powerful way to add dynamic animation to your objects without the use of fancy JavaScript.
+- note that `if` statements help you add some programming logic.
+- (not required but FYI) `for` loops also allow you to iterate over lists of items.
+
+*View project files to get a good idea of how to accomplish your tasks. Break them apart and read the comments as that should help unpack it for you!*
 
 ### Synchronous Zoom
+
+[Link to JavaScript Events Sync Lecture](https://nyu.zoom.us/rec/share/0KcoMP2QqqfFbe0u73xQZ8nGkuHXVL585C_DhfnGHj1lCAWMMNQvKmCf0F1BkahR.SmYPmY2h4Y2cJfkc?startTime=1618412544000)\
+[Download Seasons Theming and Animation Zip](https://onetimeuser.github.io/intro-web-comp-principles/week-11/seasons-themes.zip)
+
+#### Codepen Link for Transitions and Animations
+[Transitions](https://codepen.io/onetimeuser/pen/ZaLVZq)\
+[Animation Property](https://codepen.io/onetimeuser/pen/xWJGdv)\
+[Animation Property 2](https://codepen.io/onetimeuser/pen/eMjNQa)\
+[Animated Gradient Background](https://codepen.io/onetimeuser/pen/YENdbw)
+
 
 
 ### Assignment
