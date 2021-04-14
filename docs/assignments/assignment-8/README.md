@@ -33,3 +33,4 @@ This assignment is worth 10 points.
 **Extra credit**
 - use of an array or arrays in your JavaScript (1 points)
 - use of the modulo operator in your code (might have to look this one up) (2 points)
+- use of the FOR loop in your JavaScript (2 points)
