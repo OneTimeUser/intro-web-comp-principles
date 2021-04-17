@@ -20,7 +20,7 @@ This week we learn about JavaScript Events and some preliminary ways we handle e
 ### Synchronous Zoom
 
 [Link to JavaScript Events Sync Lecture](https://nyu.zoom.us/rec/share/0KcoMP2QqqfFbe0u73xQZ8nGkuHXVL585C_DhfnGHj1lCAWMMNQvKmCf0F1BkahR.SmYPmY2h4Y2cJfkc?startTime=1618412544000)\
-[Download Seasons Theming and Animation Zip](https://onetimeuser.github.io/intro-web-comp-principles/week-11/seasons-themes.zip)
+[Download Seasons Theming and Animation Zip](https://onetimeuser.github.io/intro-web-comp-principles/week-11/season-themes.zip)
 
 #### Codepen Link for Transitions and Animations
 [Transitions](https://codepen.io/onetimeuser/pen/ZaLVZq)\
