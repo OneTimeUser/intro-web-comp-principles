@@ -5,7 +5,7 @@
 This week we learn how to add audio and video elements to our page. We will also learn about some programs that will help us optimize (reduce file size with maximum quality) our audio and video files since they tend to be large. We also go over version control with git and github.
 
 [Link to Async Lecture](https://nyu.zoom.us/rec/play/7dLCF4D-gAWcKp7agbLqnTBdsb6OJq0iO1tyg7TdO_3_M7uxerd03i57bozc1NaWPGYYZT6uSVdOM1GB.JtKRUJN4r7mJOFWh)\
-[Download JavaScript Events Slides](https://onetimeuser.github.io/intro-web-comp-principles/week-12/Week-12.pdf)\
+[Download JavaScript Events Slides](https://onetimeuser.github.io/intro-web-comp-principles/week-12/Week-12.pdf)
 
 - how do you write `<audio>` and `<video>` elements
 - what are some of the functions of version control
@@ -47,3 +47,19 @@ This week we learn how to add audio and video elements to our page. We will also
 14. You can export your project as an MP3 file by clicking on File > Save Other > Export as MP3. Note that Audacity does not come pre-loaded with MP3 export capabilities. You can add this feature into the system by installing the free LAME MP3 Conversion Library.
 
 With your newly created MP3 file you can create a soundtrack to a video, remix a song, or even create your own podcast.
+
+### Handbrake QUICK START
+
+[Go here!](https://handbrake.fr/docs/en/1.3.0/introduction/quick-start.html)
+
+### FFMPEG QUICK START
+
+ ffmpeg is an easy way to output different versions of your audio and video files...but does so much more. It's a command line utility, so you use terminal or other command line tool to run it. A simple command looks like this:
+
+ `$ ffmpeg -i input.mp4 output.avi`
+
+ In the above, the `$` is just you, the user. If you opened up terminal (Mac) or Command Prompt (Windwos) or Git Bash (Windows) then you will see that the `$` is usually followed by your user name or account name. Then, we follow with the `ffmpeg` command to tell our system that we are using the ffmpeg library.
+
+ From here, there are thousands of combinations of commands you can use, but a simple conversion of a single file format into another format would entail using input and output functions. The `-i` in the above sample command means that the path-to-the-file that follows it is the input file. That is the file we want to copy and convert to another file format. Then we end with the output file name and file type we desire. So `output.avi` does not exist (or if it exists, we are overwriting it) and we are naming it and telling ffmpeg which file type we want for the copy/conversion.
+
+ We can also change other things to optimize our file size or resize the file, etc. The documentation is [here](https://ffmpeg.org/ffmpeg.html). It's a good idea to work out what you want ahead of time, then begin to piece your command together. Also, don't forget the [power of searching for your answer on the web](https://unix.stackexchange.com/questions/28803/how-can-i-reduce-a-videos-size-with-ffmpeg)!
