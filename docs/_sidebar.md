@@ -14,7 +14,7 @@
     * [Week 9 - Layout](week-9/)
     * [Week 10 - Javascript](week-10/)
     * [Week 11 - Javascript](week-11/)
-    * Week 12 - Audio Video / Version Control
+    * [Week 12 - Audio Video / Version Control](week-12/)
     * Week 13 - Design & Access / Web Forms
     * Week 14 - Design Workshop / Hosting and Domains
     * Week 15 - REVIEW / FINAL EXAM
