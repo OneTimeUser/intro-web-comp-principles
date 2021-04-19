@@ -10,11 +10,11 @@ This week we learn how to add audio and video elements to our page. We will also
 - how do you write `<audio>` and `<video>` elements
 - what are some of the functions of version control
 
-[HTML Audio Element Resources](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/audio)
-[HTML Video Element Resources](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video)
-[Audacity Open Source Sound Editor](https://www.audacityteam.org/)
-[Handbrake Open Source Video Encoder](https://handbrake.fr/)
-[My Favorite: FFMPEG](https://www.ffmpeg.org/)
+[HTML Audio Element Resources](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/audio)\
+[HTML Video Element Resources](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video)\
+[Audacity Open Source Sound Editor](https://www.audacityteam.org/)\
+[Handbrake Open Source Video Encoder](https://handbrake.fr/)\
+[My Favorite: FFMPEG](https://www.ffmpeg.org/)\
 [Check out the class website on github!](https://github.com/OneTimeUser/intro-web-comp-principles)
 
 ### Synchronous Zoom
