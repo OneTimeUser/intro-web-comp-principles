@@ -19,9 +19,16 @@ This week we learn how to add audio and video elements to our page. We will also
 
 ### Synchronous Zoom
 
+[Link to Sync Class Zoom](https://nyu.zoom.us/rec/play/TPq5H9OgwvF8Dt_TkZFi7EqOrxP3eONrpz2OK0LGlKiHXM5IzVokKz7gYeBSoPAoXxoKw7Rh8NXkRfg.P23QIpgLoN0Rm-zU)\
+[Link to Audio/Visual/Iframe Project](ttps://onetimeuser.github.io/intro-web-comp-principles/week-12/week-12-av.zip)\
+
+Some other links to take a look at:
+
+Please try taking a stab at [git](https://git-scm.com/downloads) and [github](https://github.com). Here's a [git cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf) to help you out. Might be a little unfamiliar, but just go [step by step](https://docs.github.com/en/github/getting-started-with-github/quickstart) to get a feel for it! There are [many ways](https://desktop.github.com/) to integrate github into your workflow.
 
 
 ### Assignment
+
 - Learning Web Design\
     Chapter 10: Embedded Media\
     Chapter 20: Modern Web Development Tools
@@ -56,10 +63,16 @@ With your newly created MP3 file you can create a soundtrack to a video, remix a
 
  ffmpeg is an easy way to output different versions of your audio and video files...but does so much more. It's a command line utility, so you use terminal or other command line tool to run it. A simple command looks like this:
 
- `$ ffmpeg -i input.mp4 output.avi`
+ `$ ffmpeg -i input.mp4 output.webm`\
+ `$ ffmpeg -i input.mov output.mp4 output.webm`
 
  In the above, the `$` is just you, the user. If you opened up terminal (Mac) or Command Prompt (Windwos) or Git Bash (Windows) then you will see that the `$` is usually followed by your user name or account name. Then, we follow with the `ffmpeg` command to tell our system that we are using the ffmpeg library.
 
  From here, there are thousands of combinations of commands you can use, but a simple conversion of a single file format into another format would entail using input and output functions. The `-i` in the above sample command means that the path-to-the-file that follows it is the input file. That is the file we want to copy and convert to another file format. Then we end with the output file name and file type we desire. So `output.avi` does not exist (or if it exists, we are overwriting it) and we are naming it and telling ffmpeg which file type we want for the copy/conversion.
+
+ To increase the default quality of a `webm` file, the following is a template:
+ `$ ffmpeg -i input.mov -c:v libvpx-vp9 -b:v 0 -crf 28 output.webm`
+
+ Main thing to understand about the above is the `-crf 28` option. The range of the CRF scale is 0–51, where 0 is lossless (absolute best quality), 23 is the default, and 51 is worst quality possible. A lower value generally leads to higher quality, and a subjectively sane range is 17–28.
 
  We can also change other things to optimize our file size or resize the file, etc. The documentation is [here](https://ffmpeg.org/ffmpeg.html). It's a good idea to work out what you want ahead of time, then begin to piece your command together. Also, don't forget the [power of searching for your answer on the web](https://unix.stackexchange.com/questions/28803/how-can-i-reduce-a-videos-size-with-ffmpeg)!
