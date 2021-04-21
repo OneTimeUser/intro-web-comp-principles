@@ -18,4 +18,4 @@
 
 8. [Javascript- due April 21](assignments/assignment-8/)
 
-9. Final Project- due May 5
+9. [Final Project- due May 12](assignments/assignment-9)

@@ -1,32 +1,31 @@
 # Final Project: Assignment-9
-### Due May 5
+### Due May 12
 
-In this assignment you will use jQuery and Javascript to add interactivity to your website.
+In this assignment you will use synthesize all that you know and further improve your website, adding multimedia and a web form to round it out.
 
 ### Instructions
 
-Make revisions and improvements to the site as necessary—you know more about making websites now. Using the JavaScript library, jQuery, and plain Javascript, add a new layer of interactivity to your website. We have gone over ideas already of what you can do, so take the reins and run with it. Nothing too complicated, but I will not stand for copying and pasting my code and just changing the `src` attribute. I will alert the grader of this. Don't forget to use variables when possible!
+Make revisions and improvements to the site as necessary—you know more about making websites now. Using JavaScript, audio and video and forms, add a new layer of dynamic content and interactivity to your website. We have gone over ideas already of what you can do, so take the reins and run with it. Nothing too complicated.
 
 For Javascript, here is what should be done in your code:
 
-- there should be an external .js file that contains all javascript. Call this `pureJS.js`
+- there should be an external .js file that contains all javascript.
 
 1. use Javascript to access elements (i.e. `querySelector`)
 2. use Javascript to change element content (such as text or images)
 3. use Javascript to change element style
 
-For JQuery:
+For Audio and Video:
 
-- the jQuery library should be included or referenced with your website files along with an **external** .js file with your jQuery code. Call this` jquery.js`
-- Wrap your script in a jQuery ready event.
-- Use jQuery syntax to apply an effect to an element, i.e. hide(), show(), fadeIn(), etc.
-- At least one of these changes should occur in response to a user event, such as “click.”
+- use at your discretion. I understand that audio and video don't feel necessary in all of your projects, but try to incorporate one or both. Often times, portfolio sites may have video captured or screen recordings of certain works. If you are a musician or athlete, I am sure content exitsts. If you play games, embed a twitch video or screen cap your own.
 
-For the following, use JQuery to rewrite the Javascript requirements above:
+For Forms:
 
-1. Use jQuery syntax to access elements (i.e. with CSS-style selectors).
-2. Use jQuery syntax to change element content (such as text or images).
-3. Use jQuery syntax to change element style.
+- create a contact form that simply sends an email to you when someone wants to contact you. This can be as complex or simple as you want. For example:
+
+1. Email capture for a Newsletter
+2. Name and email capture for contact
+3. Name and email and inquiry capture
 
 ### Publishing Your Website
 Upload your website to the i6 Unix server in its own directory. Test your files again once they are “live” on the Web server to make sure they are accessible. Update your assignments directory to link to this page.
@@ -40,12 +39,13 @@ Submit the following via NYU Classes. More information on submitting files with 
 ### Grading
 This assignment is worth 10 points.
 
-**In your working HTML, please link to the `jquery.js` file. But be sure to include the `pureJS.js` file in your zipped folder!**
+- has external .js file (1 point)
+- Javascript syntax to access elements (1 point)
+- Javascript syntax to change element content (1 point)
+- Javascript syntax to change element style (1 point)
+- Contains Audio and/or Video elements (3 points)
+- Contains a Form (3 points)
 
-- jQuery library included with the website files and an external .js file with jQuery code wrapped in a ready event (1 point)
-- jQuery and Javascript syntax to access elements (2 point)
-- jQuery and Javascript syntax to change element content (2 point)
-- jQuery and Javascript syntax to change element style (2 point)
-- jQuery syntax to apply an effect to an element (1 point)
-- At least one change should occur in response to a user event (1 point)
-- Use of variables (1 point)
+Extra Credit (1-5 pts)
+
+- extra credit will be assessed on quality of final project site that extends beyond the above requirements.
