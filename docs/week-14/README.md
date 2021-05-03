@@ -9,7 +9,7 @@ Accessibility is a design aspect of web design and development that places impor
 [Link to Async Lecture on Design and UX](https://nyu.zoom.us/rec/share/6ehtYNxetZnI3dKjjoB-wBAgUID7jFmXvgD9jgnKtv7UGrybMiihfmQ9oUcSqOUI.hK2oMOY0vQDEQ5bb?startTime=1619999416000)\
 [Download Design Slides](https://onetimeuser.github.io/intro-web-comp-principles/week-14/Week14-Design.pdf)\
 [Link to Async Lecture on Domain and Hosting]()\
-[Download Domain/Hosting Slides](Week14-Domain-Host.pdf)
+[Download Domain/Hosting Slides](https://onetimeuser.github.io/intro-web-comp-principles/week-14/Week14-Domain-Host.pdf)
 
 
 - what are the various elements that can comprise design?
