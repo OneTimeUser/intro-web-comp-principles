@@ -8,7 +8,7 @@ Accessibility is a design aspect of web design and development that places impor
 
 [Link to Async Lecture on Design and UX](https://nyu.zoom.us/rec/share/6ehtYNxetZnI3dKjjoB-wBAgUID7jFmXvgD9jgnKtv7UGrybMiihfmQ9oUcSqOUI.hK2oMOY0vQDEQ5bb?startTime=1619999416000)\
 [Download Design Slides](https://onetimeuser.github.io/intro-web-comp-principles/week-14/Week14-Design.pdf)\
-[Link to Async Lecture on Domain and Hosting]()\
+[Link to Async Lecture on Domain and Hosting](https://nyu.zoom.us/rec/play/tOjq4_PPZ4KzWB9jj4faW1ye9abKrxArLSFrq5Hc1qxFBCnMsaKEq7sx49NEI_xs2m3slNor7199UpTm.oPRaD76p8-1a0F-T)\
 [Download Domain/Hosting Slides](https://onetimeuser.github.io/intro-web-comp-principles/week-14/Week14-Domain-Host.pdf)
 
 
