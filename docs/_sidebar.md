@@ -16,7 +16,7 @@
     * [Week 11 - Javascript](week-11/)
     * [Week 12 - Audio Video / Version Control](week-12/)
     * [Week 13 - Design & Access / Web Forms](week-13/)
-    * Week 14 - Design Workshop / Hosting and Domains
+    * [Week 14 - Design Workshop / Hosting and Domains](week-14/)
     * Week 15 - REVIEW / FINAL EXAM
 * [**Working with Local Files**](local-files.md)
 * [**Grading**](grading.md)
