@@ -30,7 +30,9 @@ Accessibility is a design aspect of web design and development that places impor
 [Adobe Color](https://color.adobe.com/): Helps you create color themes for your site or app based on a few color principles\
 [Dribble - User Portfolios](https://dribbble.com/): see designer portfolios from around the world\
 [awwwards.com](https://www.awwwards.com/): a repository of award winning sites and a nice reference for seeing modern web practices and design\
+[Brutalist Websites](https://brutalistwebsites.com/): a design aesthetic
 [raindrop.io](https://raindrop.io/): save and bookmark and tag your favorite sites and design inspiration across all devices\
+[glitch - for prototyping web apps](https://glitch.com)\
 [What is a Domain Name?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_domain_name)\
 [Publishing a website](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Publishing_your_website)\
 [How to Write with SEO in mind](https://developer.mozilla.org/en-US/docs/MDN/Contribute/Howto/Write_for_SEO)\
@@ -40,6 +42,15 @@ Accessibility is a design aspect of web design and development that places impor
 
 ### Synchronous Zoom
 
+[Link to Sync Class Zoom](https://nyu.zoom.us/rec/play/nuSm48iSX_JCtI3yCZLn0TVRL641Do_T89JaCdForXX3B-SrpjjxbGVCUwrXJSetcBAskzsqzavbk6o3.shmUkSB3EaQHX3b-)
+
+Github Pages allow you to make your username a publicly viewable webpage at <username>.github.io.
+
+It is also possible for you to have other repos and projects available at that domain as well: <username>.github.io/my-new-project
+
+[Quick start with Github Pages](https://pages.github.com/)\
+[Google Domains](https://domains.google.com)\
+[Using a Custom Domain with your Github Page](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site)
 
 ### Assignment
 
