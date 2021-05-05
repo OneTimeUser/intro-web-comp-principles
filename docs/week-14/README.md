@@ -23,9 +23,11 @@ Accessibility is a design aspect of web design and development that places impor
 
 
 [One of my favorite mind-mapping tools: Kinopio](https://kinopio.club)\
+[Octopus Sitemap Builder](https://octopus.do/)\
 [Adobe XD - Experience Design](https://www.adobe.com/products/xd.html)\
 [Figma - an industry standard prototyping tool for the web](https://www.figma.com)\
-[Adobe Color](https://color.adobe.com/): Helps you create color themes for your site or app based on a few color principles
+[Framer X - another prototyping tool!](https://www.framer.com/)\
+[Adobe Color](https://color.adobe.com/): Helps you create color themes for your site or app based on a few color principles\
 [Dribble - User Portfolios](https://dribbble.com/): see designer portfolios from around the world\
 [awwwards.com](https://www.awwwards.com/): a repository of award winning sites and a nice reference for seeing modern web practices and design\
 [raindrop.io](https://raindrop.io/): save and bookmark and tag your favorite sites and design inspiration across all devices\
