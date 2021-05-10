@@ -1,15 +1,7 @@
-# Week 1: Introduction and UNIX
+# Week 1: Final Review
 
 ### Lecture
 
-In this first class, we briefly go over elements and principles of the Internet, since that will be the medium we work with throughout the semester.
+Please watch the following sync lecture for information on test format, time, and contents. Topics of note are in bullet points across all weekly pages. 
 
-Introduction
-[Download Introduction Lecture](1a.pdf)
-
-UNIX
-[Download Introduction Lecture](1a.pdf)
-
-### Homework
-- Browse class site- there are many resources on this site that will help you. At different points int the year we will address some of these resources.
-- Read introduction chapter in book
+[Sync Lecture on ](https://nyu.zoom.us/rec/share/6ehtYNxetZnI3dKjjoB-wBAgUID7jFmXvgD9jgnKtv7UGrybMiihfmQ9oUcSqOUI.hK2oMOY0vQDEQ5bb?startTime=1619999416000)
