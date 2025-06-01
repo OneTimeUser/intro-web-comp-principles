@@ -22,8 +22,8 @@ Our very own Slack:
 
 Some of my relevant [CODEPENS](https://codepen.io/collection/DBgroK) to help inspire and experiment!!!!!
 
-####Date of our Final Exam:####
-**May 17, 12-1:50pm**
+#### Date of our Final Exam:
+**Dec 17, 12-1:50pm**
 
 ---
 
