@@ -36,6 +36,7 @@ For the common syllabus of all sections, see [this page]( https://cs.nyu.edu/cou
 - Unix command line
 - HTML
 - CSS
+- Figma
 - Raster and Vector Graphics
 - Design and Accessibility
 - Web Page Layout
