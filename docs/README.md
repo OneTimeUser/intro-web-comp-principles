@@ -94,21 +94,21 @@ Tutors will be available throughout the semester both in person and remotely at 
 Remote tutoring meeting ID: 950 8114 9484
 
 
-####Monday
+#### Monday
     9:00–11:00 a.m. (Emma, remote)\
     11:00 a.m.–3:30 p.m. (Jiaqi, remote)\
     1:00–3:30 p.m. (Claire, in-person)
-####Tuesday
+#### Tuesday
     12:30–2:00 p.m. (Jiaqi, remote)\
     5:00–6:00 p.m. (Jiaqi, remote)
-####Wednesday
+#### Wednesday
     9:00 a.m.–12:00 p.m. (Emma, remote)\
     12:30–5:30 p.m. (Irina, remote)\
     1:00–3:30 p.m. (Claire, in-person)
-####Thursday
+#### Thursday
     10:00 a.m.–3:00 p.m. (Max, remote)\
     5:00–6:00 p.m. (Jiaqi, remote)
-####Friday
+#### Friday
     9:00 a.m.–2:00 p.m. (Irina, remote)\
     2:00–4:00 p.m. (Jiaqi, remote)
 
