@@ -1,6 +1,10 @@
-# Week 6: Graphics
+# Week 6: Figma and Graphics
 
 ### Lecture
+
+Figma!! Figma is an ideation and prototyping tool and is a good way for you to visualize an idea, a site, an app and more prior to coding it up! Additionally, there are other features embedded that allow you to take designs to code and production, but that is out of the scope of this class. Head over to [Figma](https://www.figma.com) and create a free student account. 
+
+As well, visit the [reaources page](https://www.figma.com/resource-library/) on how to get started and where to get help!
 
 Graphics!! They add some punch to any website and are fun and fairly easy to work with. We have two types of graphics we are going to cover: raster graphics and vector graphics. Each has some specific types of images that are applicable.
 
